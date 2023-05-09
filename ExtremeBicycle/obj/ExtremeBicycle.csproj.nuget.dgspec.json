@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj": {}
+    "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj": {}
   },
   "projects": {
-    "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj": {
+    "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
+        "projectUniqueName": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
         "projectName": "ExtremeBicycle",
-        "projectPath": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
-        "packagesPath": "C:\\Users\\rholm\\.nuget\\packages\\",
-        "outputPath": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\",
+        "projectPath": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
+        "packagesPath": "C:\\Users\\raide\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "U:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\visual studio\\shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rholm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\raide\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

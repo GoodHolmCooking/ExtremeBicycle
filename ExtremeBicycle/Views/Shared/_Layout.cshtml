@@ -10,25 +10,91 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ExtremeBicycle</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
+        <a class="site-logo" asp-area="" asp-controller="Home" asp-action="Index"><img class="logo" src="images/Logo.png" alt="Extreme Cycle Logo" /></a>
+        <form class="header-searchbar" action="post">
+            <div id="headerSearch">
+                <input type="search" placeholder="Search Extreme Cycle" name="search">
+                <button type="submit"><img src="images/searchIcon.png" alt="search Icon" /></button>
             </div>
-        </nav>
+        </form>
+        <div class="header-actions">
+            <img src="images/HeartIcon.png" alt="heart icon" />
+            <img id="account" class="" src="images/blankUser.png" />
+            <img src="images/shoppingCart.png" alt="shopping" />
+        </div>
+        <ul class="header-nav">
+            <li class="drop-down">
+                <p class="drop-button">Shop</p>
+                <div class="dropdown-items">
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <figure>
+                            <img src="images/Icon_Bikes.png" alt="bike icon"/>
+                            <figcaption>Bikes</figcaption>
+                        </figure>
+                    </a>
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <figure>
+                            <img src="images/Icon_Gloves.png" alt="glove icon" />
+                            <figcaption>Gloves</figcaption>
+                        </figure>
+                    </a>
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <figure>
+                            <img src="images/Icon_Helmets.png" alt="Helmet icon" />
+                            <figcaption>Helmats</figcaption>
+                        </figure>
+                    </a>
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <figure>
+                            <img src="images/Icon_Tricycle.png" alt="Tricycle icon" />
+                            <figcaption>kids Bikes</figcaption>
+                        </figure>
+                    </a>
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <figure>
+                            <img src="images/Icon_Bikes.png" alt="bike icon" />
+                            <figcaption>Bikes</figcaption>
+                        </figure>
+                    </a>
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <figure>
+                            <img src="images/Icon_Locks.png" alt="lock icon" />
+                            <figcaption>Locks</figcaption>
+                        </figure>
+                    </a>
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <figure>
+                            <img src="images/Icon_Saddles.png" alt="bike seat icon" />
+                            <figcaption>Saddles</figcaption>
+                        </figure>
+                    </a>
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <figure>
+                            <img src="images/Earth Day Sale.png" alt="Earth icon" />
+                            <figcaption>Earth Day Sale</figcaption>
+                        </figure>
+                    </a>
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index">
+                        <figure>
+                            <img src="images/Final_Sale.png" alt="sale icon" />
+                            <figcaption>Final Sale</figcaption>
+                        </figure>
+                    </a>
+                </div>
+            </li>
+            <li class="">
+                <a class="header-nav-link" asp-area="" asp-controller="Home" asp-action="Index">About Us</a>
+            </li>
+            <li class="">
+                <a class="header-nav-link" asp-area="" asp-controller="Home" asp-action="Index">Contact</a>
+            </li>
+            <li class="">
+                <a class="header-nav-link" asp-area="" asp-controller="Home" asp-action="Index">Community</a>
+            </li>
+            <li class="">
+                <a class="header-nav-link" asp-area="" asp-controller="Home" asp-action="Index">FAQs</a>
+            </li>
+        </ul>
     </header>
     <div class="container">
         <main role="main" class="pb-3">
