@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 namespace ExtremeBicycle.Models.Entities {
     public class ProductType {
         [Key]
-        public int ProuctTypeId { get; set; }
+        public int ProuctTypeID { get; set; }
 
         public string? ProductTypeName { get; set; }
 

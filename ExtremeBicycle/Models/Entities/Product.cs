@@ -8,7 +8,7 @@ namespace ExtremeBicycle.Models.Entities {
     public class Product
     {
         [Key]
-        public int ProductId { get; set; }
+        public int ProductID { get; set; }
 
         public string? ProductName { get; set; }
 
@@ -18,17 +18,20 @@ namespace ExtremeBicycle.Models.Entities {
 
         public string? Gender { get; set; }
 
-        public double? PriceSRP { get; set; }
+        public decimal? PriceSRP { get; set; }
 
-        public int ProductTypeId { get; set; }
+        public int ProductTypeID { get; set; }
 
         public string? ProductClass { get; set; }
 
-        public int SupplierId { get; set; }
+        public int SupplierID { get; set; }
 
         // navigation properties
-        [ForeignKey(nameof(ProductTypeId))]
+        [ForeignKey(nameof(ProductTypeID))]
         public virtual ProductType? ProductType { get; set; }
+
+        [ForeignKey(nameof(SupplierID))]
+        public virtual Supplier? Supplier { get; set; }
     }
 
     public class ProductConfiguration : IEntityTypeConfiguration<Product> {
