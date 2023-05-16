@@ -5,64 +5,332 @@
       "PackagePath": "staticwebassets\\ExtremeBicycle.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\.DS_Store",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\404Page_BackgroundHandleBars.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\404Page_BackgroundHandleBars.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_2BikersRidingIntoGreenBackground.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_2BikersRidingIntoGreenBackground.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikeRightSideofFrameMoutainScenery.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikeRightSideofFrameMoutainScenery.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerRidingIntoFoggyDarkRoad.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerRidingIntoFoggyDarkRoad.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSeatleNeedleBackground.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSeatleNeedleBackground.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSilhouetteBlueSky.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSilhouetteBlueSky.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSittingWithABikeToTheirRight.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSittingWithABikeToTheirRight.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringAtWhiteTopMountainToRight.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringAtWhiteTopMountainToRight.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringUpAtYellowLeaveTrees.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringUpAtYellowLeaveTrees.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSurroundedByGreenTrees.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSurroundedByGreenTrees.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingGreenCloudyBlueSky.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingGreenCloudyBlueSky.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingWhiteShortsOnRoad.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingWhiteShortsOnRoad.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWidmillBackground.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWidmillBackground.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWithLegsUpWearingWhiteSweater.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWithLegsUpWearingWhiteSweater.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_OrangeBikeAloneWithPinkSunset.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_OrangeBikeAloneWithPinkSunset.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_TwoBikersKissingSunset.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_TwoBikersKissingSunset.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_TheOneWhoStartedItAll.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_TheOneWhoStartedItAll.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_YourOneStopShop.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_YourOneStopShop.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AdvertisementFreeShipping_TwoBikersPointing.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AdvertisementFreeShipping_TwoBikersPointing.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_ElectraRiderFlip3.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_ElectraRiderFlip3.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantSelect5.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantSelect5.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantTrailblazer1.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantTrailblazer1.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_LivDevotion5.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_LivDevotion5.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumPakAway3.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumPakAway3.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumiTrailUI2.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumiTrailUI2.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekSlopeXtreme.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekSlopeXtreme.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_CyberFoCyclingShoes.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_CyberFoCyclingShoes.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_GForceHelmet.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_GForceHelmet.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_HydrationBeltGru.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_HydrationBeltGru.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_KAPackGlasses.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_KAPackGlasses.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FAQ_BackgroundPictureTwoPeopleWheelie.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FAQ_BackgroundPictureTwoPeopleWheelie.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FacebookIcon.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FacebookIcon.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Homepage_HeroVideo.mp4",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Homepage_HeroVideo.mp4"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ArrowDown.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ArrowDown.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Bikes.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Bikes.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxFilled.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxFilled.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxOutline.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxOutline.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Close.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Close.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Color.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Color.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Earth.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Earth.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Edit.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Edit.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Gloves.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Gloves.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Heart.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Heart.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Helmets.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Helmets.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_LeftArrow.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_LeftArrow.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Locks.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Locks.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Minus.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Minus.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Plus.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Plus.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Profile.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Profile.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_RightArrow.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_RightArrow.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Saddles.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Saddles.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Sale.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Sale.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Search.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Search.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ShoppingCart.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ShoppingCart.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Star.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Star.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Tricycle.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Tricycle.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\InstagramIcon.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\InstagramIcon.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Logo.svg",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ProfileLoggedIn.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ProfileLoggedIn.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Bikes.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Bikes.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Gloves.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Gloves.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Helmets.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Helmets.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_KidsBikes.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_KidsBikes.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Locks.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Locks.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Saddles.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Saddles.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Award Winning.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Award Winning.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Flash Sale.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Flash Sale.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_New Arrivals.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_New Arrivals.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekCoal23.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekCoal23.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekExtreme2.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekExtreme2.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekHeat3.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekHeat3.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekStinger1.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekStinger1.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeBackside.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeBackside.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeHighView.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeHighView.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeSeat.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeSeat.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeTire.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeTire.png"
+    },
+    {
+      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\TwitterIcon.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\TwitterIcon.png"
+    },
+    {
       "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Earth Day Sale.png",
-      "PackagePath": "staticwebassets\\images\\Earth Day Sale.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Final_Sale.png",
-      "PackagePath": "staticwebassets\\images\\Final_Sale.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\HeartIcon.png",
-      "PackagePath": "staticwebassets\\images\\HeartIcon.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Bikes.png",
-      "PackagePath": "staticwebassets\\images\\Icon_Bikes.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Gloves.png",
-      "PackagePath": "staticwebassets\\images\\Icon_Gloves.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Helmets.png",
-      "PackagePath": "staticwebassets\\images\\Icon_Helmets.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Locks.png",
-      "PackagePath": "staticwebassets\\images\\Icon_Locks.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Saddles.png",
-      "PackagePath": "staticwebassets\\images\\Icon_Saddles.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Tricycle.png",
-      "PackagePath": "staticwebassets\\images\\Icon_Tricycle.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Logo.png",
-      "PackagePath": "staticwebassets\\images\\Logo.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\blankUser.png",
-      "PackagePath": "staticwebassets\\images\\blankUser.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\searchIcon.png",
-      "PackagePath": "staticwebassets\\images\\searchIcon.png"
-    },
-    {
-      "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\shoppingCart.png",
-      "PackagePath": "staticwebassets\\images\\shoppingCart.png"
     },
     {
       "Id": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\js\\site.js",

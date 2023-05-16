@@ -16,8 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\raide\Documents\bootcamp\CapStone\extremeBicycle\ExtremeBicycle\ExtremeBicycle
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/raide/Documents/bootcamp/CapStone/extremeBicycle/ExtremeBicycle/ExtremeBicycle/Pages/Errors/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JzXDQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raide/Documents/bootcamp/CapStone/extremeBicycle/ExtremeBicycle/ExtremeBicycle/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raide/Documents/bootcamp/CapStone/extremeBicycle/ExtremeBicycle/ExtremeBicycle/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/raide/Documents/bootcamp/CapStone/extremeBicycle/ExtremeBicycle/ExtremeBicycle/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raide/Documents/bootcamp/CapStone/extremeBicycle/ExtremeBicycle/ExtremeBicycle/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/raide/Documents/bootcamp/CapStone/extremeBicycle/ExtremeBicycle/ExtremeBicycle/Views/Home/Privacy.cshtml]
