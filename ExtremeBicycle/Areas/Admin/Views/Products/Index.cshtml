@@ -4,7 +4,11 @@
     ViewData["Title"] = "Products";
 }
 
-<h1>Product Index</h1>
+@section Header {
+    <h1>Product Index</h1>
+}
+
+
 <ul>
 @foreach (var product in Model) {
     <li>@product.ProductID: @product.ProductName @product.Size @product.Color</li>
