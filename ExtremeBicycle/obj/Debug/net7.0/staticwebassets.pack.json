@@ -13,6 +13,58 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Earth Day Sale.png",
+      "PackagePath": "staticwebassets\\images\\Earth Day Sale.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Final_Sale.png",
+      "PackagePath": "staticwebassets\\images\\Final_Sale.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\HeartIcon.png",
+      "PackagePath": "staticwebassets\\images\\HeartIcon.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Bikes.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Bikes.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Gloves.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Gloves.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Helmets.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Helmets.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Locks.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Locks.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Saddles.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Saddles.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Tricycle.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Tricycle.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\blankUser.png",
+      "PackagePath": "staticwebassets\\images\\blankUser.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\searchIcon.png",
+      "PackagePath": "staticwebassets\\images\\searchIcon.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\shoppingCart.png",
+      "PackagePath": "staticwebassets\\images\\shoppingCart.png"
+    },
+    {
       "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

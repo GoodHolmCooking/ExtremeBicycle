@@ -10713,23 +10713,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\raide\\.nuget\\packages\\": {},
-    "C:\\visual studio\\shared\\NuGetPackages": {}
+    "C:\\Users\\rholm\\.nuget\\packages\\": {},
+    "U:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
+      "projectUniqueName": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
       "projectName": "ExtremeBicycle",
-      "projectPath": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
-      "packagesPath": "C:\\Users\\raide\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raide\\Documents\\bootcamp\\CapStone\\extremeBicycle\\ExtremeBicycle\\ExtremeBicycle\\obj\\",
+      "projectPath": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
+      "packagesPath": "C:\\Users\\rholm\\.nuget\\packages\\",
+      "outputPath": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\visual studio\\shared\\NuGetPackages"
+        "U:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\raide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rholm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
