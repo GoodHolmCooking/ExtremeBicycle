@@ -2,7 +2,314 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div id="home-page">
+    <section id="Home-vid-display">
+        <video autoplay loop src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Homepage_HeroVideo.mp4"></video>
+        @*<img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/her" />*@ @*this will need to be changed since its a wierd video without a file*@
+        <div>
+            <h1>Pegasus 2000</h1>
+            <p>
+                Early release only at Extreme Cycle.
+                Grab yours before they’re all gone!
+            </p>
+            <button>
+                View More
+            </button>
+        </div>
+
+    </section>
+    <section id="side-content">
+        <section id="side-specials">
+            <a class="btn-anchor">
+                <div class="btn-container">
+                    <span>Flash Sale</span>
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/SideContent_Flash Sale.png" alt="bike on mountain" class="btn-img">
+                </div>
+            </a>
+            <a class="btn-anchor">
+                <div class="btn-container">
+                    <span>New Arrivals</span>
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/SideContent_New Arrivals.png" alt="guy biking" class="btn-img">
+                </div>
+            </a>
+            <a class="btn-anchor">
+                <div class="btn-container">
+                    <span>Award Winning</span>
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/SideContent_Award Winning.png" alt="Cat in suit" class="btn-img">
+                </div>
+            </a>
+        </section>
+        <aside id="sideBar-ad"> @*using home-ad makes thing invisible*@
+            <p id="sidebar-text">
+                Today only! Free Shipping on all orders over
+                $600!
+            </p>
+            <button id="adButton">Shop</button>
+        </aside>
+    </section>
+    <section id="categories">
+        <a class="cat">
+            <figure>
+                <img class="category-image" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Bikes.png" alt="Bike against a wall" />
+                <figcaption class="category-caption">
+                    Bikes
+                </figcaption>
+            </figure>
+        </a>
+        <a class="cat">
+            <img class="category-image" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_KidsBikes.png" alt="tricicle on a hill" />
+            <figcaption class="category-caption">
+                Kids Bikes
+            </figcaption>
+        </a>
+        <a class="cat">
+            <img class="category-image" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Locks.png" alt="bike lock around bike bar" />
+            <figcaption class="category-caption">
+                Locks
+            </figcaption>
+        </a>
+        <a class="cat">
+            <img class="category-image" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Helmets.png" alt="bike helmat on a table" />
+            <figcaption class="category-caption">
+                Helmats
+            </figcaption>
+        </a>
+        <a class="cat">
+            <img class="category-image" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Saddles.png" alt="bike seat" />
+            <figcaption class="category-caption">
+                Saddles
+            </figcaption>
+        </a>
+        <a class="cat">
+            <img class="category-image" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Gloves.png" alt="guy with gloves riding a bike" />
+            <figcaption class="category-caption">
+                Gloves
+            </figcaption>
+        </a>
+    </section>
 </div>
+
+@section styles
+    {
+    <style>
+        #Home-vid-display {
+            padding: 0;
+            margin: 0;
+            grid-area: top;
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+        }
+
+            #Home-vid-display *:first-child {
+                width: 60%;
+            }
+
+                #Home-vid-display *:last-child {
+                    width: 40%;
+                    background-color: #1A1C20;
+                    color: white;
+                    padding-inline-start: 41px;
+                    display:flex;
+                    flex-direction:column;
+                    justify-content:center;
+                   
+                }
+
+                    #Home-vid-display *:last-child h1 {
+                        width: 80%;
+                        font-family: 'Roboto';
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 72px;
+                        line-height: 84px;
+                    }
+
+                    #Home-vid-display *:last-child p {
+                        margin-block-start:30px;
+                        margin-block-end:30px;
+                        width: 60%;
+                        font-family: 'Roboto';
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 30px;
+                        line-height: 35px;
+                    }
+
+                    #Home-vid-display *:last-child button {
+                        font-family: 'Roboto';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 25px;
+                        line-height: 29px;
+                        color: #1A1C20;
+                        width: 170px;
+                        height: 49px;
+                        padding: 10px;
+                        display:flex;
+                        align-items:center;
+                    }
+
+                    #Home-vid-display *:last-child button:hover {
+                            background-color: #DAC47D;
+                    }
+        /*****************************************************
+            bottom left section
+        ********************************************************/
+        #side-content {
+            grid-area: side;
+            display:flex;
+            flex-direction: column;
+            width:80%;
+        }
+
+        #side-specials * {
+            width:433px;
+            height:89px;
+            display:flex; 
+            /*background-color: #D4AF37;*/
+            align-items:center;
+            margin:0;
+            padding:0;
+        }
+          #side-specials > *
+          {
+            margin-block-end: 4.5px;
+          } 
+        #categories {
+            grid-area: categories;
+        }
+
+        body {
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        #home-page 
+        {
+            width: 100%;
+            padding: 0;
+            margin: 0;
+            display: grid;
+            grid-template-columns: 1fr 3fr;
+            grid-template-rows: auto;
+            grid-template-areas:
+                "top top"
+                "side categories";
+        }
+
+        /**************************************************
+        buttons
+        **************************************************/
+
+        .btn-anchor {
+            text-decoration: none;
+            cursor:pointer;
+        }
+
+        .btn-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height:90px;
+            margin: 17px 20px;
+            background: linear-gradient(90deg, #d4af37 55%, rgba(212, 175, 55, 0) 70%);
+        }
+
+            .btn-container span {
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 30px;
+                line-height: 27px;
+                text-align:center;
+                color: #1A1C20;
+                padding-left: 33px !important;
+            }
+
+        .btn-img {
+           /* height: 100%;*/
+            z-index: -999;
+        }
+
+        /**************************************************
+                ad
+        **************************************************/
+        #sidebar-text {
+            width: 245px;
+            height: 164px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 35px;
+            line-height: 41px;
+            margin-top: 30px;
+            padding-inline-start:2rem;
+            
+        }
+
+        #adButton
+        {
+            padding: 10px;
+            width: 176px;
+            height: 58px;
+            text-align:center;
+            margin-inline-end:47px;
+        }
+
+
+
+/**************************************************
+Product categories
+**************************************************/
+        .cat {
+            background: #FFFFFF;
+            border-radius: 0px 0px 3.78082px 3.78082px;
+            height: 276px;
+            width: 340px;
+            margin:10px;
+            margin-block-end:20px;
+            box-shadow: -10px 15px 15px -15px gray, 10px 15px 15px -15px gray;
+            cursor: pointer;
+            text-decoration:none;
+           
+        }
+
+        .category-image {
+            width: 340px;
+        }
+        #categories {
+
+            margin-block-start:19px;
+            display:flex;
+            flex-wrap:wrap;
+            margin-bottom:8em;
+         /*   position: relative;
+            right: 12%;
+            width: 112%;
+            border: solid black */
+        }
+
+        .category-caption
+        {
+            padding: 12.6027px;
+            font-family: 'Roboto';
+            font-style: normal;
+            height: 86.96px;
+            font-weight: 400;
+            font-size: 35px;
+            line-height: 34px;
+            color: #1A1C20;
+            text-decoration:none !important;
+            display:flex;
+            justify-content:center;
+            align-content:center;
+            padding-block-start:0.75em;
+        }
+
+
+
+
+    </style>
+}

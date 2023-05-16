@@ -6,16 +6,15 @@
 /* When the user clicks on the button,
 toggle between hiding and showing the dropdown content */
 
+
 document.addEventListener('DOMContentLoaded', () => {
+    //Dropdown menu css
     let dropMenu = document.querySelector(".dropdown-items");
     let dropButton = document.querySelector(".drop-button");
     function dropDown() {
         dropMenu.classList.toggle("show");
     }
-
-
-    // Close the dropdown menu if the user clicks outside of it
-
+    // Close the dropdown menu
     dropButton.addEventListener('click', () => {
         dropDown();
     });

@@ -1,0 +1,121 @@
+﻿@model ExtremeBicycle.Models.LoginRequest;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["title"] = "Login";
+}
+
+<main>
+    <section class="login">
+        <h1>Welcome Back!</h1>
+        <form class="login-form" asp-action="Login">
+            <div class="form-group">
+                <label asp-for="User" class="control-label"></label>
+                <input asp-for="User" class="form-control" />
+                <span asp-validation-for="User" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Pass" class="control-label"></label>
+                <input asp-for="Pass" class="form-control" />
+                <span asp-validation-for="Pass" class="text-danger"></span>
+            </div>
+
+            <a id="redoLogin">Forgot login?</a>
+            <button id="login" type="submit">
+                Sign In
+            </button>
+        </form>
+    </section>
+
+    <secion class="create">
+        <h1>New Here?</h1>
+        <p>
+            Pedal to the metal and join us for the ride!
+            Get a 15% off coupon sent to you email for your next purchase.
+        </p>
+
+        <button id="createAccount">Create My Account</button>
+    </secion>
+
+</main>
+
+
+
+
+@section Styles {
+    <style>
+        main
+        {
+            display:flex;
+            justify-content:center;
+            gap: 1em;
+        }
+        .create
+        {
+            padding-inline-start:7.25rem;
+            border-inline-start: 1px solid #1A1C20;
+            display:flex;
+            flex-direction:column;
+            align-content:flex-start;
+            width:454px;
+            height:576px;
+            margin-block-start:55px;
+            margin-block-end:163px;
+            display:flex;
+            flex-direction:column;
+            gap:25px;
+            font-size:24px;
+            font-weight:400;
+        }
+        .create > h1
+        {
+            margin-block-start:76px;
+                font-size: 24px;
+                font-weight: 400;
+        }
+        .login
+        {
+            display:flex;
+            flex-direction:column;
+            align-content:flex-start;
+            justify-content:flex-start;
+            width:360px;
+            gap:25px;
+            margin-block-start:131px;
+            margin-inline-end:116px;
+        }
+
+        .login h1 {
+                font-size: 24px;
+                font-weight: 400;
+        }
+        .login-form > *
+        {
+            margin-block-end:25px;
+        }
+
+        .login-form {
+            display:flex;
+            flex-direction:column;
+        }
+
+        #login
+        {
+            width:176px;
+            height:58px;
+        }
+
+        #createAccount
+        {
+            width: 210px;
+            height: 58px;
+        }
+
+        #redoLogin
+        {
+            text-decoration:underline;
+        }
+    </style>
+}
