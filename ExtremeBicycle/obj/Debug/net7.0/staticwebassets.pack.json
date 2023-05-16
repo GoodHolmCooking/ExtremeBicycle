@@ -13,6 +13,133 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\2 Bikers Riding Into Green Background.png",
+      "PackagePath": "staticwebassets\\images\\2 Bikers Riding Into Green Background.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Background Picture Two People Wheelie.png",
+      "PackagePath": "staticwebassets\\images\\Background Picture Two People Wheelie.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Bike Right Side of Frame Moutain Scenery.png",
+      "PackagePath": "staticwebassets\\images\\Bike Right Side of Frame Moutain Scenery.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Riding Into Foggy Dark Road.png",
+      "PackagePath": "staticwebassets\\images\\Biker Riding Into Foggy Dark Road.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Seatle Needle Background.png",
+      "PackagePath": "staticwebassets\\images\\Biker Seatle Needle Background.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Silhouette Blue Sky.png",
+      "PackagePath": "staticwebassets\\images\\Biker Silhouette Blue Sky.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Sitting With A Bike To Their Right.png",
+      "PackagePath": "staticwebassets\\images\\Biker Sitting With A Bike To Their Right.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Staring At White Top Mountain To Right.png",
+      "PackagePath": "staticwebassets\\images\\Biker Staring At White Top Mountain To Right.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Staring Up At Yellow Leave Trees.png",
+      "PackagePath": "staticwebassets\\images\\Biker Staring Up At Yellow Leave Trees.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Surrounded By Green Trees.png",
+      "PackagePath": "staticwebassets\\images\\Biker Surrounded By Green Trees.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Wearing Green Cloudy Blue Sky.png",
+      "PackagePath": "staticwebassets\\images\\Biker Wearing Green Cloudy Blue Sky.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Wearing White Shorts On Road.png",
+      "PackagePath": "staticwebassets\\images\\Biker Wearing White Shorts On Road.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Widmill Background.png",
+      "PackagePath": "staticwebassets\\images\\Biker Widmill Background.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker With Legs Up Wearing White Sweater.png",
+      "PackagePath": "staticwebassets\\images\\Biker With Legs Up Wearing White Sweater.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Earth Day Sale.png",
+      "PackagePath": "staticwebassets\\images\\Earth Day Sale.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Final_Sale.png",
+      "PackagePath": "staticwebassets\\images\\Final_Sale.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\HeartIcon.png",
+      "PackagePath": "staticwebassets\\images\\HeartIcon.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Bikes.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Bikes.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Gloves.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Gloves.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Helmets.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Helmets.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Locks.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Locks.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Saddles.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Saddles.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Icon_Tricycle.png",
+      "PackagePath": "staticwebassets\\images\\Icon_Tricycle.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Logo (2).png",
+      "PackagePath": "staticwebassets\\images\\Logo (2).png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Orange Bike Alone With Pink Sunset.png",
+      "PackagePath": "staticwebassets\\images\\Orange Bike Alone With Pink Sunset.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\The One Who Started It All Media Reggie Miller.png",
+      "PackagePath": "staticwebassets\\images\\The One Who Started It All Media Reggie Miller.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Two Bikers Kissing Sunset.png",
+      "PackagePath": "staticwebassets\\images\\Two Bikers Kissing Sunset.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\blankUser.png",
+      "PackagePath": "staticwebassets\\images\\blankUser.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\searchIcon.png",
+      "PackagePath": "staticwebassets\\images\\searchIcon.png"
+    },
+    {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\shoppingCart.png",
+      "PackagePath": "staticwebassets\\images\\shoppingCart.png"
+    },
+    {
+>>>>>>> Stashed changes
       "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

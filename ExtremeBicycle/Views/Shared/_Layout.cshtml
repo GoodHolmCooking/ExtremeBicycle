@@ -95,6 +95,7 @@
                 <a class="header-nav-link" asp-area="" asp-controller="Home" asp-action="Index">FAQs</a>
             </li>
         </ul>
+        @await RenderSectionAsync("Header", required: false)
     </header>
     <div class="container">
         <main role="main" class="pb-3">
