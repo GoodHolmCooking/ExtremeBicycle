@@ -22,7 +22,24 @@ namespace ExtremeBicycle.Controllers {
         {
             return View();
         }
-
+        [Route("about")]
+        [ActionName("About")]
+        public IActionResult About()
+        {
+            return View();
+        }
+        [Route("contact")]
+        [ActionName("Contact")]
+        public IActionResult Contact()
+        {
+            return View();
+        }
+        [Route("faqs")]
+        [ActionName("Faqs")]
+        public IActionResult Faqs()
+        {
+            return View();
+        }
         [Route("login")]
         [HttpPost]
         [ActionName("Login")]

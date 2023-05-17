@@ -1,25 +1,28 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewData["title"] = "Faqs";
 }
 <style>
     body {
         position: relative;
         width: 1728px;
         height: 1573px;
-        background: #FFFFFF;
+        
     }
     #wheelie {
-        position: absolute;
+        position: relative;
         width: 1728px;
         height: 1250px;
         left: 0px;
-        top: 216px;
+        top: -600px;
+        z-index: -1;
+     
     }
     h1 {
         width: 736px;
         height: 68px;
+        position: relative;
+        left: 50px;
+        top: 50px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 600;
@@ -30,6 +33,9 @@
     h2 {
         width: 736px;
         height: 180px;
+        position: relative;
+        left: 50px;
+        top: 50px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
@@ -40,8 +46,11 @@
     .accordion {
         background-color: white;
         cursor: pointer;
+        position: relative;
+        left: 50px;
+        top: 50px;
         padding: 18px;
-        width: 100%;
+        width: 43%;
         border: none;
         text-align: left;
         outline: none;
@@ -54,7 +63,7 @@
 </style>
 <h1>Frequently Asked Questions</h1>
 
-<h2>Do you have any questions about your purchase or Extreme Cycle? See below for our list of frequently asked questions. If your questions are still not answered, please contact us.</h2>
+<h2>Do you have any questions about your purchase or <br />Extreme Cycle? See below for our list of frequently<br/> asked questions. If your questions are still not <br />answered, please contact us.</h2>
 
     <section class="side">
         <dt class="accordion">What’s Extreme Cycle’s return policy?<dt>
@@ -71,4 +80,4 @@
         <dd></dd>
     </section>
 
-<img id="wheelie" src="Background Picture Two People Wheelie.png" />
+<img id="wheelie" src="ExtremeBicycleShop\ExtremeBicycleShop_V2\FAQ_BackgroundPictureTwoPeopleWheelie.png" />
