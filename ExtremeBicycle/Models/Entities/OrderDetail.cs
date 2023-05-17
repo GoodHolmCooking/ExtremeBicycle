@@ -6,10 +6,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ExtremeBicycle.Models.Entities {
     public class OrderDetails {
-        [Key, Column(Order = 0)]
+        [Key]
         public int OrderID { get; set; }
 
-        [Key, Column(Order = 1)]   
         public int ProductID { get; set; }
 
         public double? UnitPrice { get; set; }

@@ -1,7 +1,12 @@
-﻿@model IEnumerable<Product>
+﻿@model ExtremeBicycle.Models.DTO.ProductDTO
+@using Microsoft.EntityFrameworkCore
 
 @{
     ViewData["Title"] = "Products";
+    var products = Model.Context.Products
+        .Include(p => p.ProductType)
+        .Where(p => p.ProductType == Model.ProductType)
+        .ToList();
 }
 <aside>
 
@@ -14,7 +19,7 @@
         </div>
     </div>
     <ul class="product-list">
-        @foreach (var product in Model) {
+        @foreach (var product in products) {
             <li class="product-li">
                 <div class="product-card">
                     <div class="product-img-container">
