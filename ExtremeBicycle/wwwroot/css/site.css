@@ -173,3 +173,29 @@ drop-down
     text-decoration:none;
     color:black;
 }
+
+/******************************************************************************************************************************* 
+* Product page
+*******************************************************************************************************************************/
+.product-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    width: 100%;
+}
+
+.product-li {
+    list-style-type: none;
+}
+
+.product-card {
+    border: solid 1px #fafafa;
+    max-width: 25rem;
+}
+
+.product-title-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
