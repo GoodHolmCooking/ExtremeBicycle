@@ -1,0 +1,102 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<section id="ProfileInfo">
+    <section id="ThankYouForTheOrder">
+        <h1>Thank you for your order, Paola!</h1>
+        <p>
+            We sent an email receipt to <span>Paola.live@gmail.com</span> and will
+            send an update once we ship your purchase if you are experiencing andy issues, contact
+            <span>
+                support@extremecycle.com
+            </span>
+        </p>
+        <button>
+            Continue Shopping >
+        </button>
+    </section>
+    <section id="bilingInfo">
+        <div>
+            <h5>
+                Date
+            </h5>
+            <p>@DateTime.Now.ToString("MMMM"); @DateTime.Now.Day,@DateTime.Now.Year;</p>
+        </div>
+        <div>
+            <h5>
+                PaymentMethod
+            </h5>
+            <p>Amex Card *3123</p>
+        </div>
+        <div>
+            <h5>
+               Billing Address
+            </h5>
+            <p>Paola Aguilar</p>
+            <p>
+                203 Haek Drive
+            </p>
+            <p>
+                Austin, TX 73301
+            </p>
+        </div>
+        <div>
+            <h5>
+               Shipping Address
+            </h5>
+            <p>Paola Aguilar</p>
+            <p>
+                203 Haek Drive
+            </p>
+            <p>
+                Austin, TX 73301
+            </p>
+        </div>
+    </section>
+</section>
+<section id="ConfrimOrder">
+    <div id="orderDetails">
+        <h2>
+            order Details
+        </h2>
+        <li class="no-style">
+            <p>Order Number </p>
+            <span>87362516253</span>
+        </li>
+        <li class="no-style">
+            <p>Order Status </p>
+            <span>Not Yet Shipped</span>
+        </li>
+        <li class="no-style">
+            <p>Deliver By </p>
+            <span>Saturday,June 4</span>
+        </li>
+        <li class="no-style">
+            <p>Deliver To </p>
+            <span>Pala Aquilar</span>
+        </li>
+    </div>
+    <div id="orderItem">
+        <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeHighView.png" />
+        <div id="item-label">
+            <p>Trek3000</p>
+            <p class="color">Turquoise</p> @*thinking you can use the ::before for the color somewhere here*@
+            <p>Qty</p>
+            <p>$699.99</p> @*could do flex wrap in a column format or turn into span for the first line*@ 
+        </div>
+    </div>
+    <div id="cost-calc-factors">
+        <span class="cost-label">Subtotal</span> <span class="cost-item">$699.99</span>
+        <span class="cost-label">Shipping</span> <span class="cost-item">Free</span>
+        <span class="cost-label">Tax</span> <span class="cost-item">$55.98</span>
+    </div>
+    <div id="cost-total">
+        <span class="cost-label">Total</span>
+        <span class="cost-item">$755.98</span>
+    </div>
+    <a>Return Policy</a>
+    <a>Print Order</a>
+</section>
