@@ -8,42 +8,130 @@
         .Where(p => p.ProductType == Model.ProductType)
         .ToList();
 }
-<aside>
-
-</aside>
-<section>
-    <div>
-        <p>Sort By</p>
-        <div>
-            <i class="fa-solid fa-angle-down"></i>
-        </div>
-    </div>
-    <ul class="product-list">
-        @foreach (var product in products) {
-            <li class="product-li">
-                <div class="product-card">
-                    <div class="product-img-container">
-                        @if (product.ProductType.Picture != null) {
-                            <img src="data:image/png;base64,@Convert.ToBase64String(product.ProductType.Picture)" alt="image invalid">
-                        }
-                        else {
-                            <img src="#" alt="image for product not available">
-                        }
-                    </div>
-                    <div class="product-title-row">
-                        <h3>@product.ProductName</h3>
-                        <div class="product-heart-container">
-                            <i class="fa-regular fa-heart"></i>
-                        </div>
-                    </div>
-                    @{
-                        string price = String.Format("{0:C2}", Convert.ToInt32(product.PriceSRP));
-                    }
-                    <h3>@price</h3>
-                    <p>nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis nunc eget</p>
+<div id="product-page-row">
+    <aside id="product-aside">
+        <h1>Bikes</h1>
+        <h2>Home / Bikes</h2>
+        <section class="product-filter">
+            <div class="product-filter-heading">
+                <h3>Price</h3>
+                <div class="product-filter-collapse-container">
+                    <i class="fa-solid fa-angle-up"></i>
                 </div>
-            </li>
-        }
-    </ul>
-</section>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-price-300plus" />
+                <label for="p-filter-price-300plus">$300 to $499.99</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-price-500plus" />
+                <label for="p-filter-price-300plus">$500 to $699.99</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-price-700plus" />
+                <label for="p-filter-price-300plus">$700 to $899.99</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-price-900plus" />
+                <label for="p-filter-price-300plus">$900 and up</label>
+            </div>
+        </section>
+
+        <section class="product-filter">
+            <div class="product-filter-heading">
+                <h3>Color</h3>
+                <div class="product-filter-collapse-container">
+                    <i class="fa-solid fa-angle-up"></i>
+                </div>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-color-black" />
+                <label for="p-filter-color-black">Black</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-color-blue" />
+                <label for="p-filter-color-blue">Blue</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-color-grey" />
+                <label for="p-filter-color-grey">Grey</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-color-red" />
+                <label for="p-filter-color-red">Red</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-color-white" />
+                <label for="p-filter-color-white">White</label>
+            </div>
+        </section>
+
+        <section class="product-filter">
+            <div class="product-filter-heading">
+                <h3>Brand</h3>
+                <div class="product-filter-collapse-container">
+                    <i class="fa-solid fa-angle-up"></i>
+                </div>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-brand-electra" />
+                <label for="p-filter-brand-electra">Electra</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-brand-giant" />
+                <label for="p-filter-brand-giant">Giant</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-brand-liv" />
+                <label for="p-filter-brand-liv">Liv</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-brand-momentum" />
+                <label for="p-filter-brand-momentum">Momentum</label>
+            </div>
+            <div class="product-filter-row">
+                <input type="checkbox" id="p-filter-brand-trek" />
+                <label for="p-filter-brand-trek">Trek</label>
+            </div>
+        </section>
+    </aside>
+    <section id="product-store-section">
+        <div id="product-store-header">
+            <div id="p-store-header-content">
+                <p>Sort By</p>
+                <div id="p-store-dropdown-img-container">
+                    <i class="fa-solid fa-angle-down"></i>
+                </div>
+            </div>
+        </div>
+        <ul id="product-list">
+            @foreach (var product in products) {
+                <li class="product-li">
+                    <div class="product-card">
+                        <div class="product-img-container">
+                            @if (product.ProductType.Picture != null) {
+                                <img src="data:image/png;base64,@Convert.ToBase64String(product.ProductType.Picture)" alt="image invalid">
+                            }
+                            else {
+                                <img src="#" alt="image for product not available">
+                            }
+                        </div>
+                        <div class="product-title-row">
+                            <h3>@product.ProductName</h3>
+                            <div class="product-heart-container">
+                                <i class="fa-regular fa-heart"></i>
+                            </div>
+                        </div>
+                        @{
+                            string price = String.Format("{0:C2}", Convert.ToInt32(product.PriceSRP));
+                        }
+                        <h3>@price</h3>
+                        <p>nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis nunc eget</p>
+                    </div>
+                </li>
+            }
+        </ul>
+        <h2>See More</h2>
+    </section>
+</div>
 
