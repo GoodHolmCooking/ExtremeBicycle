@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cc3Z62OUkLkQ0TqzNAbkyUHwm82x5q2mOaLQynhaMEw=",
+  "Hash": "3lN1ixpHNrxOnJ0uJE9iGXOLpSHpo7dD8N9Z+EP/K4k=",
   "Source": "ExtremeBicycle",
   "BasePath": "_content/ExtremeBicycle",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ExtremeBicycle\\wwwroot",
       "Source": "ExtremeBicycle",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ExtremeBicycle.styles.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ExtremeBicycle.styles.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycle.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ExtremeBicycle.styles.css"
+      "OriginalItemSpec": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ExtremeBicycle.styles.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ExtremeBicycle.bundle.scp.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ExtremeBicycle.bundle.scp.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycle.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ExtremeBicycle.bundle.scp.css"
+      "OriginalItemSpec": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ExtremeBicycle.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\css\\site.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\css\\site.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\.DS_Store",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\.DS_Store",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/.DS_Store",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\404Page_BackgroundHandleBars.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\404Page_BackgroundHandleBars.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/404Page_BackgroundHandleBars.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\404Page_BackgroundHandleBars.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_TheOneWhoStartedItAll.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_TheOneWhoStartedItAll.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUs_TheOneWhoStartedItAll.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_TheOneWhoStartedItAll.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_YourOneStopShop.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_YourOneStopShop.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUs_YourOneStopShop.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_YourOneStopShop.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_2BikersRidingIntoGreenBackground.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_2BikersRidingIntoGreenBackground.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_2BikersRidingIntoGreenBackground.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_2BikersRidingIntoGreenBackground.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikeRightSideofFrameMoutainScenery.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikeRightSideofFrameMoutainScenery.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikeRightSideofFrameMoutainScenery.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikeRightSideofFrameMoutainScenery.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerRidingIntoFoggyDarkRoad.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerRidingIntoFoggyDarkRoad.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerRidingIntoFoggyDarkRoad.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerRidingIntoFoggyDarkRoad.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSeatleNeedleBackground.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSeatleNeedleBackground.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerSeatleNeedleBackground.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSeatleNeedleBackground.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSilhouetteBlueSky.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSilhouetteBlueSky.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerSilhouetteBlueSky.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSilhouetteBlueSky.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSittingWithABikeToTheirRight.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSittingWithABikeToTheirRight.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerSittingWithABikeToTheirRight.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSittingWithABikeToTheirRight.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringAtWhiteTopMountainToRight.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringAtWhiteTopMountainToRight.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerStaringAtWhiteTopMountainToRight.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringAtWhiteTopMountainToRight.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringUpAtYellowLeaveTrees.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringUpAtYellowLeaveTrees.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerStaringUpAtYellowLeaveTrees.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringUpAtYellowLeaveTrees.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSurroundedByGreenTrees.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSurroundedByGreenTrees.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerSurroundedByGreenTrees.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSurroundedByGreenTrees.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingGreenCloudyBlueSky.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingGreenCloudyBlueSky.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerWearingGreenCloudyBlueSky.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingGreenCloudyBlueSky.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingWhiteShortsOnRoad.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingWhiteShortsOnRoad.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerWearingWhiteShortsOnRoad.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingWhiteShortsOnRoad.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWidmillBackground.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWidmillBackground.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerWidmillBackground.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWidmillBackground.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWithLegsUpWearingWhiteSweater.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWithLegsUpWearingWhiteSweater.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_BikerWithLegsUpWearingWhiteSweater.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWithLegsUpWearingWhiteSweater.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_OrangeBikeAloneWithPinkSunset.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_OrangeBikeAloneWithPinkSunset.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_OrangeBikeAloneWithPinkSunset.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_OrangeBikeAloneWithPinkSunset.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_TwoBikersKissingSunset.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_TwoBikersKissingSunset.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AboutUsGallery_TwoBikersKissingSunset.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_TwoBikersKissingSunset.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AdvertisementFreeShipping_TwoBikersPointing.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AdvertisementFreeShipping_TwoBikersPointing.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/AdvertisementFreeShipping_TwoBikersPointing.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AdvertisementFreeShipping_TwoBikersPointing.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_ElectraRiderFlip3.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_ElectraRiderFlip3.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_ElectraRiderFlip3.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_ElectraRiderFlip3.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantSelect5.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantSelect5.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_GiantSelect5.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantSelect5.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantTrailblazer1.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantTrailblazer1.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_GiantTrailblazer1.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantTrailblazer1.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_LivDevotion5.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_LivDevotion5.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_LivDevotion5.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_LivDevotion5.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumiTrailUI2.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumiTrailUI2.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_MomentumiTrailUI2.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumiTrailUI2.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumPakAway3.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumPakAway3.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_MomentumPakAway3.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumPakAway3.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_TrekPike3.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekSlopeXtreme.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekSlopeXtreme.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_TrekSlopeXtreme.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekSlopeXtreme.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_CyberFoCyclingShoes.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_CyberFoCyclingShoes.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/DontForgetTheseItems_CyberFoCyclingShoes.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_CyberFoCyclingShoes.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_GForceHelmet.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_GForceHelmet.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/DontForgetTheseItems_GForceHelmet.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_GForceHelmet.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_HydrationBeltGru.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_HydrationBeltGru.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/DontForgetTheseItems_HydrationBeltGru.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_HydrationBeltGru.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_KAPackGlasses.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_KAPackGlasses.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/DontForgetTheseItems_KAPackGlasses.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_KAPackGlasses.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FacebookIcon.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FacebookIcon.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/FacebookIcon.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FacebookIcon.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FAQ_BackgroundPictureTwoPeopleWheelie.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FAQ_BackgroundPictureTwoPeopleWheelie.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/FAQ_BackgroundPictureTwoPeopleWheelie.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FAQ_BackgroundPictureTwoPeopleWheelie.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Homepage_HeroVideo.mp4",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Homepage_HeroVideo.mp4",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Homepage_HeroVideo.mp4",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Homepage_HeroVideo.mp4"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ArrowDown.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ArrowDown.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ArrowDown.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Bikes.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Bikes.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Bikes.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Bikes.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxFilled.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxFilled.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_CheckBoxFilled.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxFilled.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxOutline.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxOutline.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_CheckBoxOutline.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxOutline.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Close.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Close.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Close.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Close.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Color.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Color.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Color.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Earth.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Earth.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Earth.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Earth.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Edit.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Edit.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Edit.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Edit.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Gloves.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Gloves.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Gloves.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Gloves.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Heart.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Heart.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Heart.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Heart.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Helmets.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Helmets.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Helmets.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Helmets.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_LeftArrow.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_LeftArrow.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_LeftArrow.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_LeftArrow.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Locks.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Locks.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Locks.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Locks.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Minus.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Minus.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Minus.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Minus.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Plus.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Plus.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Plus.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Plus.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Profile.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Profile.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Profile.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Profile.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_RightArrow.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_RightArrow.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_RightArrow.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_RightArrow.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Saddles.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Saddles.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Saddles.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Saddles.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Sale.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Sale.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Sale.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Sale.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Search.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Search.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Search.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Search.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ShoppingCart.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ShoppingCart.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ShoppingCart.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ShoppingCart.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Star.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Star.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Star.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Star.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Tricycle.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Tricycle.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Tricycle.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Tricycle.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\InstagramIcon.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\InstagramIcon.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/InstagramIcon.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\InstagramIcon.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Logo.svg",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Logo.svg",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Logo.svg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Logo.svg"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ProfileLoggedIn.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ProfileLoggedIn.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/ProfileLoggedIn.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ProfileLoggedIn.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Bikes.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Bikes.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Bikes.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Bikes.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Gloves.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Gloves.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Gloves.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Gloves.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Helmets.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Helmets.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Helmets.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Helmets.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_KidsBikes.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_KidsBikes.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_KidsBikes.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_KidsBikes.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Locks.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Locks.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Locks.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Locks.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Saddles.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Saddles.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/ShopByCategories_Saddles.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Saddles.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Award Winning.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Award Winning.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/SideContent_Award Winning.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Award Winning.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Flash Sale.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Flash Sale.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/SideContent_Flash Sale.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Flash Sale.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_New Arrivals.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_New Arrivals.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/SideContent_New Arrivals.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_New Arrivals.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekCoal23.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekCoal23.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/SimilarRidesForYou_TrekCoal23.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekCoal23.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekExtreme2.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekExtreme2.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/SimilarRidesForYou_TrekExtreme2.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekExtreme2.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekHeat3.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekHeat3.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/SimilarRidesForYou_TrekHeat3.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekHeat3.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekStinger1.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekStinger1.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/SimilarRidesForYou_TrekStinger1.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekStinger1.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeBackside.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeBackside.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeBackside.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeBackside.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeHighView.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeHighView.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeHighView.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeHighView.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeSeat.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeSeat.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeSeat.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeSeat.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeTire.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeTire.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeTire.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeTire.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\TwitterIcon.png",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\TwitterIcon.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/TwitterIcon.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\TwitterIcon.png"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\favicon.ico",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\favicon.ico",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1445,10 +1445,316 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\js\\site.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\2 Bikers Riding Into Green Background.png",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/2 Bikers Riding Into Green Background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2 Bikers Riding Into Green Background.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Background Picture Two People Wheelie.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Background Picture Two People Wheelie.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Background Picture Two People Wheelie.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Bike Right Side of Frame Moutain Scenery.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Bike Right Side of Frame Moutain Scenery.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Bike Right Side of Frame Moutain Scenery.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Riding Into Foggy Dark Road.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Riding Into Foggy Dark Road.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Riding Into Foggy Dark Road.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Seatle Needle Background.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Seatle Needle Background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Seatle Needle Background.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Silhouette Blue Sky.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Silhouette Blue Sky.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Silhouette Blue Sky.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Sitting With A Bike To Their Right.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Sitting With A Bike To Their Right.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Sitting With A Bike To Their Right.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Staring At White Top Mountain To Right.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Staring At White Top Mountain To Right.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Staring At White Top Mountain To Right.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Staring Up At Yellow Leave Trees.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Staring Up At Yellow Leave Trees.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Staring Up At Yellow Leave Trees.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Surrounded By Green Trees.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Surrounded By Green Trees.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Surrounded By Green Trees.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Wearing Green Cloudy Blue Sky.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Wearing Green Cloudy Blue Sky.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Wearing Green Cloudy Blue Sky.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Wearing White Shorts On Road.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Wearing White Shorts On Road.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Wearing White Shorts On Road.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker Widmill Background.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker Widmill Background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker Widmill Background.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Biker With Legs Up Wearing White Sweater.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Biker With Legs Up Wearing White Sweater.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Biker With Legs Up Wearing White Sweater.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Logo (2).png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Logo (2).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Logo (2).png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Orange Bike Alone With Pink Sunset.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Orange Bike Alone With Pink Sunset.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Orange Bike Alone With Pink Sunset.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\The One Who Started It All Media Reggie Miller.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/The One Who Started It All Media Reggie Miller.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\The One Who Started It All Media Reggie Miller.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\images\\Two Bikers Kissing Sunset.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "images/Two Bikers Kissing Sunset.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Two Bikers Kissing Sunset.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\js\\site.js",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1462,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1479,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1496,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1513,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1530,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1547,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1564,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1581,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1598,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1615,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1632,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1649,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1683,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1700,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1717,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1751,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1768,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1785,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1819,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1836,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1853,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1887,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1904,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1921,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1955,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1972,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1989,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2006,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2023,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2040,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2057,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2074,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2091,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2108,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2125,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2142,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2159,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2176,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2193,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2210,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2227,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2244,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2261,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2278,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2295,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2312,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2329,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2346,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2363,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2380,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2397,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2414,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ExtremeBicycle",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nayef\\Source\\Repos\\ExtremeBicycle2\\ExtremeBicycle\\wwwroot\\",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
       "BasePath": "_content/ExtremeBicycle",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
