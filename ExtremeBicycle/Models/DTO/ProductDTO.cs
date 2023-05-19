@@ -6,5 +6,7 @@ namespace ExtremeBicycle.Models.DTO {
         public ProductsContext Context { get; set; }
 
         public ProductType? ProductType { get; set; }
+
+        public List<ProductType>? ProductTypes { get; set; }
     }
 }
