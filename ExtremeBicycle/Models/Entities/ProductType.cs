@@ -12,7 +12,6 @@ namespace ExtremeBicycle.Models.Entities {
 
         public string? Description { get; set; }
 
-        // Image type in DB. No idea what that translates to.
         public byte[]? Picture { get; set; }
     }
 

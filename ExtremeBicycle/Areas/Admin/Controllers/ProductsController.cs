@@ -13,7 +13,7 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
             _context = context;
         }
 
-        // GET: Admin/Products
+        // This page shouldn't technically be accessed, but I don't know if removing the index breaks anything
         public async Task<IActionResult> Index() {
 
             return _context.Products != null ?
@@ -23,7 +23,7 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
                         Problem("Entity set 'ProductsContext.Products' is null.");
         }
 
-        // GET: Admin/Products/1
+        // Admin/Products/Type/1
         public async Task<IActionResult> Type(int? id) {
 
             var model = new ProductDTO();
@@ -33,6 +33,36 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
                 .FirstOrDefaultAsync();
 
             if (model.ProductType == null) {
+                return NotFound();
+            }
+
+            return View(model);
+        }
+
+        // Admin/Products/Bikes
+        public async Task<IActionResult> Bikes() {
+
+            var model = await _context.Products
+                .Include(p => p.ProductType)
+                .Where(pt => pt.ProductTypeID == 1 || pt.ProductTypeID == 2 || pt.ProductTypeID == 3) 
+                .ToListAsync();
+
+            if (model == null) {
+                return NotFound();
+            }
+
+            return View(model);
+        }
+
+        // GET: Admin/Products/Details/1101
+        public async Task<IActionResult> Details(int? id) {
+
+            var model = await _context.Products
+                .Where(p => p.ProductID == id)
+                .Include(p => p.ProductType)
+                .FirstOrDefaultAsync();
+
+            if (model == null) {
                 return NotFound();
             }
 

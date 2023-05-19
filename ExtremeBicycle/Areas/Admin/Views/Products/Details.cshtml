@@ -1,0 +1,99 @@
+﻿@model ExtremeBicycle.Models.Entities.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+<div>&nbsp;</div> <!-- Problem with spacing without this -->
+<div id="details-page">
+    <div id="details-header">
+        <h4><a asp-area="" asp-controller="Home" asp-action="Index">Home</a> / <a asp-area="Admin" asp-controller="Products" asp-action="Bikes">Bikes</a> / Trek 3000</h4>
+    </div>
+    <section id="details-images">
+        <div id="details-main-img-container">
+            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" alt="main image" id="details-main-img">
+        </div>
+        <div id="details-small-img-row">
+            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeSeat.png" alt="small image">
+            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeTire.png" alt="small image">
+            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeHighView.png" alt="small image">
+            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeBackside.png" alt="small image">
+        </div>
+    </section>
+    <aside id="details-aside">
+        <h1>Trek 3000</h1>
+        <h5>Road Bike</h5>
+        <div id="details-aside-review-row">
+            <div id="details-review-stars">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Star.png" />
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Star.png" />
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Star.png" />
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Star.png" />
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Star.png" />
+            </div>
+            <p>33 Reviews</p>
+        </div>
+        <h4>$699.99</h4>
+        <div id="details-aside-color-row">
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png" alt="color">
+            </div>
+            <p>Turquoise</p>
+        </div>
+        <p>
+            We have all at one time or another mixed some mud. This is where you take out all your hostilities and frustrations. It's better than kicking the puppy dog around and all that so. God gave you this gift of imagination. Use it. Volunteering your time; it pays you and your whole community fantastic dividends. Just pretend you are a whisper floating across a mountain.
+        </p>
+        <div id="details-aside-btn-container">
+            <button id="details-cart-btn">Add To Cart</button>
+            <button id="details-favorite-btn">Favorite <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Heart.png" alt="heart icon"></button>
+        </div>
+        <div class="details-aside-collapsible-row">
+            <p>Product Details</p>
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+            </div>
+        </div>
+        <div class="details-aside-collapsible-row">
+            <p>Reviews (33)</p>
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+            </div>
+        </div>
+        <div class="details-aside-collapsible-row">
+            <p>Size Chart</p>
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+            </div>
+        </div>
+    </aside>
+    <section id="details-similar-section">
+        <h3>Similar Rides For You</h3>
+        <div id="details-carousel-row">
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_LeftArrow.png" alt="left arrow">
+            </div>
+            <div class="details-similar-card">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/SimilarRidesForYou_TrekCoal23.png" alt="similar item">
+                <h5>Trek Coal 23</h5>
+                <h5>$590.00</h5>
+            </div>
+            <div class="details-similar-card">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/SimilarRidesForYou_TrekExtreme2.png" alt="similar item">
+                <h5>Trek Coal 23</h5>
+                <h5>$590.00</h5>
+            </div>
+            <div class="details-similar-card">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/SimilarRidesForYou_TrekStinger1.png" alt="similar item">
+                <h5>Trek Coal 23</h5>
+                <h5>$590.00</h5>
+            </div>
+            <div class="details-similar-card">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/SimilarRidesForYou_TrekHeat3.png" alt="similar item">
+                <h5>Trek Coal 23</h5>
+                <h5>$590.00</h5>
+            </div>
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_RightArrow.png" alt="right arrow">
+            </div>
+        </div>
+    </section>
+</div>
