@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj": {}
+    "D:\\Cameron\\Documents\\Bootcamp\\MVC\\Capstone\\ExtremeBicycle\\ExtremeBicycle.csproj": {}
   },
   "projects": {
-    "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj": {
+    "D:\\Cameron\\Documents\\Bootcamp\\MVC\\Capstone\\ExtremeBicycle\\ExtremeBicycle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
+        "projectUniqueName": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\Capstone\\ExtremeBicycle\\ExtremeBicycle.csproj",
         "projectName": "ExtremeBicycle",
-        "projectPath": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
-        "packagesPath": "C:\\Users\\rholm\\.nuget\\packages\\",
-        "outputPath": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\",
+        "projectPath": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\Capstone\\ExtremeBicycle\\ExtremeBicycle.csproj",
+        "packagesPath": "C:\\Users\\Cameron\\.nuget\\packages\\",
+        "outputPath": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\Capstone\\ExtremeBicycle\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "U:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rholm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Cameron\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

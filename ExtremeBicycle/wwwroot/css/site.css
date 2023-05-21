@@ -576,3 +576,91 @@ footer {
     #details-carousel-row img {
         margin-block-end: 1rem;
     }
+
+/******************************************************************************************************************************* 
+* cart css 
+*******************************************************************************************************************************/
+
+/*reused details carousel here*/
+#cart-page {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-template-areas:
+        "cartTop cartTop"
+        "cartMain cartAside"
+        "similar similar";
+}
+
+#top-titles {
+    grid-area: cartTop;
+    display: flex;
+    justify-content: space-between;
+    margin: 5em 14.5em 1em 3em;
+}
+
+#cart-content {
+    grid-area: cartMain;
+    margin-bottom: 5em;
+    display: flex;
+}
+
+.cart-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+#quantity-border {
+    border: 1px solid black;
+}
+
+.underline-style {
+    text-decoration: underline;
+}
+
+#cart-adjust {
+    margin-left: 3em;
+    margin-right: 15em;
+    margin-top: 3em;
+}
+
+#cart-aside {
+    grid-area: cartAside;
+}
+
+.total-border {
+    border-top: 1px solid black;
+    margin-top: 1em;
+}
+
+.spaceBetween {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1em;
+    margin-right: 1em;
+}
+
+
+
+/******************************************************************************************************************************* 
+* checkout css 
+*******************************************************************************************************************************/
+
+#checkout-page {
+    margin: 3em 15em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+        "checkOut checkCart";
+}
+
+#checkOutSection1 {
+    grid-area: checkOut;
+    margin-right: 10em;
+    
+    font-size: 20px;
+}
+
+#checkOutSection2 {
+    grid-area: checkCart;
+    margin-right: 15em;
+}

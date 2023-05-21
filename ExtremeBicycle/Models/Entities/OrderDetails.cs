@@ -11,7 +11,7 @@ namespace ExtremeBicycle.Models.Entities {
 
         public int ProductID { get; set; }
 
-        public double? UnitPrice { get; set; }
+        public decimal? UnitPrice { get; set; }
 
         public int? Quantity { get; set; }
 
@@ -25,7 +25,10 @@ namespace ExtremeBicycle.Models.Entities {
 
     public class OrderDetailsConfiguration : IEntityTypeConfiguration<OrderDetails> {
         public void Configure(EntityTypeBuilder<OrderDetails> builder) {
-            builder.ToTable("OrdersDetails");
+            builder.ToTable("OrdersDetail");
+            //builder.HasKey(od => new { od.OrderID, od.ProductID });
         }
+
+        
     }
 }
