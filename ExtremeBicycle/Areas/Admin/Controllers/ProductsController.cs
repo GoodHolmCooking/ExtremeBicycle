@@ -27,6 +27,7 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
         public async Task<IActionResult> Type(int? id) {
 
             var model = new ProductDTO();
+
             model.Context = _context;
             model.ProductType = await _context.ProductTypes
                 .Where(pt => pt.ProductTypeID == id)
@@ -57,14 +58,17 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
         // GET: Admin/Products/Details/1101
         public async Task<IActionResult> Details(int? id) {
 
-            var model = await _context.Products
+            var product = await _context.Products
                 .Where(p => p.ProductID == id)
                 .Include(p => p.ProductType)
                 .FirstOrDefaultAsync();
 
-            if (model == null) {
+            if (product == null) {
                 return NotFound();
             }
+
+            ProductDTO model = new ProductDTO();
+            model.Product = product;
 
             return View(model);
         }

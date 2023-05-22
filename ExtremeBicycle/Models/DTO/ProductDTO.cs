@@ -3,7 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ExtremeBicycle.Models.DTO {
     public class ProductDTO {
-        public ProductsContext Context { get; set; }
+        public ProductsContext? Context { get; set; }
+
+        public Product? Product { get; set; }
 
         public ProductType? ProductType { get; set; }
 

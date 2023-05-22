@@ -9,25 +9,25 @@ namespace ExtremeBicycle.Models.Entities {
         [Key]
         public int OrderID { get; set; }
 
-        public double? OrderAmount { get; set; }
+        public decimal? OrderAmount { get; set; }
 
-        public int CustomerID { get; set; }
+        //public int CustomerID { get; set; }
 
-        public int EmployeeID { get; set; }
+        //public int EmployeeID { get; set; }
 
-        public DateTime? OrderDate { get; set; }
+        //public DateTime? OrderDate { get; set; }
 
-        public DateTime? RequiredDate { get; set; }
+        //public DateTime? RequiredDate { get; set; }
 
-        public DateTime? ShipDate { get; set; }
+        //public DateTime? ShipDate { get; set; }
 
-        public string? CourierWebsite { get; set; }
+        //public string? CourierWebsite { get; set; }
 
-        public string? Shipped { get; set; }
+        //public string? Shipped { get; set; }
 
         public string? PO { get; set; }
 
-        public bool? PaymentReceived { get; set; }
+        public bool PaymentReceived { get; set; }
 
         // navigation properties
 

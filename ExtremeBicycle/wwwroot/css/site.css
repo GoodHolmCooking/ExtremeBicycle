@@ -576,3 +576,22 @@ footer {
     #details-carousel-row img {
         margin-block-end: 1rem;
     }
+
+#details-modal {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.2);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+#details-modal-body {
+    background-color: white;
+    padding: 2rem;
+    width: 30%;
+}
