@@ -100,9 +100,9 @@
         </div>
         <div id="details-modal">
             <div id="details-modal-body">
-                <button id="details-checkout-button">
+                <a id="details-checkout-button" asp-area="Admin" asp-controller="Orders" asp-action="Add" asp-route-id="@Model.Product.ProductID">
                     Checkout
-                </button>
+                </a>
             </div>
         </div>
     </section>
@@ -113,10 +113,6 @@
     <script>
         $('#details-cart-btn').click(() => {
             $('#details-modal').css('display', 'flex');
-        });
-
-        $('#details-checkout-button').click(() => {
-            console.log("To checkout.");
         });
 
     </script>

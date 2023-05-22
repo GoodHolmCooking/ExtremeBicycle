@@ -1,13 +1,9 @@
 ﻿@*@model ExtremeBicycle.Models.Entities.Order*@
 
-@model IEnumerable<ExtremeBicycle.Models.Entities.OrderDetails>
-
-
-
 
 @{
     ViewData["Title"] = "Orders";
-    //var products = Model.OrderDetails;
+    var products = ViewBag.Cart;
 }
 
 
@@ -30,37 +26,37 @@ this one does work
         <h1>Cart</h1>
         <h2>Summary</h2>
     </div>
-    @foreach (var product in Model)
+    @foreach (var product in products)
     {
         <section id="cart-content">
-        <div id="bike-image">
-            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" />
-        </div>
-        <div id="cart-adjust">
-            <div>
-                <div class="cart-info">
-                    <h2>@product.Product.ProductName</h2>
-                    <p>
-                        Quantity
-                        <img id="quantity-border" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
-                    </p>
-                </div>                   
+            <div id="bike-image">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" />
             </div>
-            <div class="cart-info">
-                    <p>Road Bike</p>
-                    <p class="underline-style">Remove</p>
+            <div id="cart-adjust">
+                <div>
+                    <div class="cart-info">
+                        <h2>@product.ProductName</h2>
+                        <p>
+                            Quantity
+                            <img id="quantity-border" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+                        </p>
+                    </div>                   
                 </div>
-                <div id="details-aside-color-row">
-                    <div>
-                        <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png" alt="color">
+                <div class="cart-info">
+                        <p>Road Bike</p>
+                        <p class="underline-style">Remove</p>
                     </div>
-                    <p>Turquoise</p>
-                </div>
-                <p>
-                    Series 5 Aluminum frame, gripping handle bars for road riding, Carbon material seat, and Titanium rims.
-                </p>
-        </div>
-    </section>
+                    <div id="details-aside-color-row">
+                        <div>
+                            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png" alt="color">
+                        </div>
+                        <p>Turquoise</p>
+                    </div>
+                    <p>
+                        Series 5 Aluminum frame, gripping handle bars for road riding, Carbon material seat, and Titanium rims.
+                    </p>
+            </div>
+        </section>
     }
     
 
