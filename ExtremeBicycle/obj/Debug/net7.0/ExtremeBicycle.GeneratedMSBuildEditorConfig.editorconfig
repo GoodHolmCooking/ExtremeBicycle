@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQmlrZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

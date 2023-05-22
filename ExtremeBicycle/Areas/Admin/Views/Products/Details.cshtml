@@ -1,4 +1,4 @@
-﻿@model ExtremeBicycle.Models.Entities.Product
+﻿@model ExtremeBicycle.Models.DTO.ProductDTO
 
 @{
     ViewData["Title"] = "Product Details";
@@ -20,8 +20,8 @@
         </div>
     </section>
     <aside id="details-aside">
-        <h1>Trek 3000</h1>
-        <h5>Road Bike</h5>
+        <h1>@Model.Product.ProductName</h1>
+        <h5>@Model.Product.ProductType</h5>
         <div id="details-aside-review-row">
             <div id="details-review-stars">
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Star.png" />
@@ -32,7 +32,10 @@
             </div>
             <p>33 Reviews</p>
         </div>
-        <h4>$699.99</h4>
+        @{
+            string price = String.Format("{0:C2}", Convert.ToInt32(Model.Product.PriceSRP));
+        }
+        <h4>@price</h4>
         <div id="details-aside-color-row">
             <div>
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png" alt="color">
@@ -95,5 +98,27 @@
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_RightArrow.png" alt="right arrow">
             </div>
         </div>
+        <div id="details-modal">
+            <div id="details-modal-body">
+                <button id="details-checkout-button">
+                    Checkout
+                </button>
+            </div>
+        </div>
     </section>
 </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $('#details-cart-btn').click(() => {
+            $('#details-modal').css('display', 'flex');
+        });
+
+        $('#details-checkout-button').click(() => {
+            console.log("To checkout.");
+        });
+
+    </script>
+
+}
