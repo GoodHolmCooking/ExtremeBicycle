@@ -1,0 +1,127 @@
+﻿@*@model ExtremeBicycle.Models.Entities.Order*@
+
+@model IEnumerable<ExtremeBicycle.Models.Entities.OrderDetails>
+
+
+
+
+@{
+    ViewData["Title"] = "Orders";
+    //var products = Model.OrderDetails;
+}
+
+
+
+@*
+this doesn't work, need to figure out why
+
+@foreach (var product in Model) {
+    <h4>product.ProductID</h4>
+}*@
+
+
+@*
+this one does work
+
+<h4>@Model.ProductID</h4>*@
+
+<div id="cart-page">
+    <div id="top-titles">
+        <h1>Cart</h1>
+        <h2>Summary</h2>
+    </div>
+    @foreach (var product in Model)
+    {
+        <section id="cart-content">
+        <div id="bike-image">
+            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" />
+        </div>
+        <div id="cart-adjust">
+            <div>
+                <div class="cart-info">
+                    <h2>@product.Product.ProductName</h2>
+                    <p>
+                        Quantity
+                        <img id="quantity-border" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+                    </p>
+                </div>                   
+            </div>
+            <div class="cart-info">
+                    <p>Road Bike</p>
+                    <p class="underline-style">Remove</p>
+                </div>
+                <div id="details-aside-color-row">
+                    <div>
+                        <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png" alt="color">
+                    </div>
+                    <p>Turquoise</p>
+                </div>
+                <p>
+                    Series 5 Aluminum frame, gripping handle bars for road riding, Carbon material seat, and Titanium rims.
+                </p>
+        </div>
+    </section>
+    }
+    
+
+
+    <aside id="cart-aside">
+        <div class="spaceBetween">
+            <h5>Subtotal</h5>
+            <h5>$699.99</h5>
+        </div>
+        <div class="spaceBetween">
+            <h5>Estimated Shipping</h5>
+            <h5>Free</h5>
+        </div>
+        <div class="spaceBetween">
+            <h5>Estimated Tax</h5>
+            <h5>$55.99</h5>
+        </div>
+
+        <div class="total-border"></div>
+
+        <div class="spaceBetween">
+            <h5>Total</h5>
+            <h5>$755.98</h5>
+        </div>
+        <div id="details-aside-btn-container">
+            <button id="details-cart-btn">Checkout</button>
+        </div>
+    </aside>
+
+    @*reused details code here*@
+    <section id="details-similar-section">
+        <h3>Don't Forget These Items</h3>
+        <div id="details-carousel-row">
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_LeftArrow.png" alt="left arrow">
+            </div>
+            <div class="details-similar-card">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/DontForgetTheseItems_GForceHelmet.png" alt="Don't forget item">
+                <h5>G Force Helmet</h5>
+                <h5>$60.00</h5>
+            </div>
+            <div class="details-similar-card">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/DontForgetTheseItems_CyberFoCyclingShoes.png" alt="Don't forget item">
+                <h5>CyberFo Cycling Shoes</h5>
+                <h5>$150.00</h5>
+            </div>
+            <div class="details-similar-card">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/DontForgetTheseItems_KAPackGlasses.png" alt="Don't forget item">
+                <h5>KA Pack Glasses</h5>
+                <h5>$59.99</h5>
+            </div>
+            <div class="details-similar-card">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/DontForgetTheseItems_HydrationBeltGru.png" alt="Don't forget item">
+                <h5>Hydration Belt Gru</h5>
+                <h5>$30.99</h5>
+            </div>
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_RightArrow.png" alt="right arrow">
+            </div>
+        </div>
+    </section>
+</div>
+
+
