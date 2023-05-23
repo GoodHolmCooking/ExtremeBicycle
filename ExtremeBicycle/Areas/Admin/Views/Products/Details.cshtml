@@ -98,13 +98,35 @@
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_RightArrow.png" alt="right arrow">
             </div>
         </div>
+
         <div id="details-modal">
             <div id="details-modal-body">
-                <button id="details-checkout-button">
-                    Checkout
-                </button>
+                <div id="details-modal-top-row">
+                    <div id="details-modal-left-col">
+                        <img id="details-modal-img" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" />
+                    </div>
+                    <div id="details-modal-right-col">
+                        <h4>Trek 3000</h4>
+                        <div id="details-modal-color-row">
+                            <div id="details-modal-color-container">
+                                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png" />
+                            </div>
+                            <h5>Turquoise</h5>
+                        </div>
+                        <h5>$699.00</h5>
+                    </div>
+                </div>
+                <div id="details-modal-bottom-row">
+                    <button id="details-modal-keep-shopping">Keep Shopping</button>
+                    <a id="details-checkout-button" asp-area="Admin" asp-controller="Orders" asp-action="Add" asp-route-id="@Model.Product.ProductID">
+                        Checkout
+                    </a>
+                </div>
+                <div id="details-modal-X-container"></div>
+
             </div>
         </div>
+
     </section>
 </div>
 
@@ -115,8 +137,8 @@
             $('#details-modal').css('display', 'flex');
         });
 
-        $('#details-checkout-button').click(() => {
-            console.log("To checkout.");
+        $('#details-modal-keep-shopping').click(() => {
+            $('#details-modal').css('display', 'none');
         });
 
     </script>

@@ -15,6 +15,8 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
             _context = context;
         }
 
+        public static List<Product> products { get; set; } = new List<Product>();
+
         //Admin/Orders/cart/ID
         public async Task<IActionResult> Index()
         {
@@ -23,24 +25,53 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
 
         //Admin/Orders/Cart/1002
  
-        public async Task<IActionResult> Cart(int? id)
+        public async Task<IActionResult> Cart()
         {
 
-            var model = await _context.AllOrderDetails
-                .Include(x => x.Product)
-                .Where(x => x.OrderID == id)
-                .ToListAsync();
-                //.Include(x => x.OrderDetails)
-                ////.ThenInclude(x => x.Products)
-                //.Where(x => x.OrderID == id)
-                //.FirstOrDefaultAsync();
+            //var model = await _context.AllOrderDetails
+            //    .Include(x => x.Product)
+            //    .Where(x => x.OrderID == id)
+            //    .ToListAsync();
+            //.Include(x => x.OrderDetails)
+            ////.ThenInclude(x => x.Products)
+            //.Where(x => x.OrderID == id)
+            //.FirstOrDefaultAsync();
 
-            if (model == null)
-            {
+            ViewBag.Cart = products;
+
+            if (ViewBag.Cart != null) {
+                // Test
+            }
+
+            return View();
+        }
+
+        public async Task<IActionResult> Add(int? id) {
+            var model = await _context.Products
+                .Include(p => p.ProductType)
+                .Where(p => p.ProductID == id)
+                .FirstOrDefaultAsync();
+
+            if (model == null) {
                 return NotFound();
             }
 
-            return View(model);
+            products.Add(model);
+
+            if (products.Count == 0) { 
+                // Do nothing
+            }
+
+            //var model = await _context.AllOrderDetails
+            //    .Include(x => x.Product)
+            //    .Where(x => x.OrderID == id)
+            //    .ToListAsync();
+            //.Include(x => x.OrderDetails)
+            ////.ThenInclude(x => x.Products)
+            //.Where(x => x.OrderID == id)
+            //.FirstOrDefaultAsync();
+
+            return RedirectToAction("Cart");
         }
 
         public async Task<IActionResult> Checkout(int? id)
