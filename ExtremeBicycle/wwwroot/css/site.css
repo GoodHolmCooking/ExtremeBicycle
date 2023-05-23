@@ -577,6 +577,7 @@ footer {
         margin-block-end: 1rem;
     }
 
+
 #details-modal {
     position: fixed;
     height: 100%;
@@ -592,6 +593,146 @@ footer {
 
 #details-modal-body {
     background-color: white;
-    padding: 2rem;
+    padding: 4rem;
     width: 30%;
+    position: relative;
+}
+
+#details-modal-body, #details-modal-left-col, #details-modal-right-col {
+    display: flex;
+    flex-direction: column;
+}
+
+#details-modal-right-col {
+    justify-content: space-between;
+}
+
+#details-modal-top-row, #details-modal-color-row, #details-modal-bottom-row {
+    display: flex;
+    flex-direction: row;
+}
+
+#details-modal-color-row {
+    gap: 0.5rem;
+    margin-block: 1rem;
+}
+
+#details-modal-top-row {
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+#details-modal-bottom-row {
+    justify-content: space-between;
+    margin-block-start: 2rem;
+}
+
+#details-modal-img {
+    height: auto;
+    width: 100%;
+}
+
+#details-modal a {
+    background: linear-gradient(rgb(207, 117, 0) -23.44%, rgb(212, 175, 55) 118.97%);
+    color: black;
+    text-decoration: none;
+}
+
+#details-modal button {
+    background: none;
+    border-radius: 5px;
+
+}
+
+#details-modal button, #details-modal a {
+    padding-inline: 10%;
+    padding-block: 2%;
+}
+/******************************************************************************************************************************* 
+* cart css 
+*******************************************************************************************************************************/
+
+/*reused details carousel here*/
+#cart-page {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-template-areas:
+        "cartTop cartTop"
+        "cartMain cartAside"
+        "similar similar";
+}
+
+#top-titles {
+    grid-area: cartTop;
+    display: flex;
+    justify-content: space-between;
+    margin: 5em 14.5em 1em 3em;
+}
+
+#cart-content {
+    grid-area: cartMain;
+    margin-bottom: 5em;
+    display: flex;
+}
+
+.cart-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+#quantity-border {
+    border: 1px solid black;
+}
+
+.underline-style {
+    text-decoration: underline;
+}
+
+#cart-adjust {
+    margin-left: 3em;
+    margin-right: 15em;
+    margin-top: 3em;
+}
+
+#cart-aside {
+    grid-area: cartAside;
+}
+
+.total-border {
+    border-top: 1px solid black;
+    margin-top: 1em;
+}
+
+.spaceBetween {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1em;
+    margin-right: 1em;
+}
+
+
+
+/******************************************************************************************************************************* 
+* checkout css 
+*******************************************************************************************************************************/
+
+#checkout-page {
+    margin: 3em 15em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+        "checkOut checkCart";
+}
+
+#checkOutSection1 {
+    grid-area: checkOut;
+    margin-right: 10em;
+    
+    font-size: 20px;
+}
+
+#checkOutSection2 {
+    grid-area: checkCart;
+    margin-right: 15em;
 }

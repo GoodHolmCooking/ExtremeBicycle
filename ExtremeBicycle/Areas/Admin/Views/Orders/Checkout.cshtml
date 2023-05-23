@@ -1,0 +1,64 @@
+﻿@model ExtremeBicycle.Models.Entities.OrderDetails
+
+@{
+    ViewData["Title"] = "Orders";
+}
+
+<div id="checkout-page">
+    <section id="checkOutSection1">
+        <h1>Checkout</h1>
+        <p>Hi, Paola!</p>
+        <p>Save your information to make the next purchase faster!</p>
+        <div class="details-aside-collapsible-row">
+            <p>Contact</p>
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+            </div>
+        </div>
+        <div class="details-aside-collapsible-row">
+            <p>Shipping</p>
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+            </div>
+        </div>
+        <div class="details-aside-collapsible-row">
+            <p>Delivery Method</p>
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+            </div>
+        </div>
+        <div class="details-aside-collapsible-row">
+            <p>Payment</p>
+            <div>
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+            </div>
+        </div>
+        <div id="details-aside-btn-container">
+            <button id="details-cart-btn">Place Order</button>
+        </div>
+    </section>
+
+    <section id="checkOutSection2">
+        <div>
+            <h1>Cart <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Edit.png" /></h1>
+        </div>
+        <div class="spaceBetween">
+            <h5>Subtotal</h5><h5>$699.99</h5>
+        </div>
+        <div class="spaceBetween">
+            <h5>Estimated Shipping</h5><h5>Free</h5>
+        </div>
+        <div class="spaceBetween">
+            <h5>Estimated Tax</h5><h5>$55.99</h5>
+        </div>
+
+        <div class="total-border"></div>
+
+        <div class="spaceBetween">
+            <h5>Total</h5><h5>$755.98</h5>
+        </div>
+        <div class="underline-style">
+            <p>View Cart</p>
+        </div>
+    </section>
+</div>

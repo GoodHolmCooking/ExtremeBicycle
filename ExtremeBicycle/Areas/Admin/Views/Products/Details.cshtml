@@ -2,6 +2,15 @@
 
 @{
     ViewData["Title"] = "Product Details";
+
+    // convert price to money format
+    string price = String.Format("{0:C2}", Convert.ToInt32(Model.Product.PriceSRP));
+
+    string colorImport = Model.Product.Color;
+
+    string color =
+        System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.
+        ToTitleCase(colorImport.ToLower());
 }
 <div>&nbsp;</div> <!-- Problem with spacing without this -->
 <div id="details-page">
@@ -32,15 +41,12 @@
             </div>
             <p>33 Reviews</p>
         </div>
-        @{
-            string price = String.Format("{0:C2}", Convert.ToInt32(Model.Product.PriceSRP));
-        }
         <h4>@price</h4>
         <div id="details-aside-color-row">
             <div>
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png" alt="color">
             </div>
-            <p>Turquoise</p>
+            <p>@color</p>
         </div>
         <p>
             We have all at one time or another mixed some mud. This is where you take out all your hostilities and frustrations. It's better than kicking the puppy dog around and all that so. God gave you this gift of imagination. Use it. Volunteering your time; it pays you and your whole community fantastic dividends. Just pretend you are a whisper floating across a mountain.
@@ -98,13 +104,35 @@
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_RightArrow.png" alt="right arrow">
             </div>
         </div>
+
         <div id="details-modal">
             <div id="details-modal-body">
-                <button id="details-checkout-button">
-                    Checkout
-                </button>
+                <div id="details-modal-top-row">
+                    <div id="details-modal-left-col">
+                        <img id="details-modal-img" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" />
+                    </div>
+                    <div id="details-modal-right-col">
+                        <h4>@Model.Product.ProductName</h4>
+                        <div id="details-modal-color-row">
+                            <div id="details-modal-color-container">
+                                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png" />
+                            </div>
+                            <h5>@color</h5>
+                        </div>
+                        <h5>@price</h5>
+                    </div>
+                </div>
+                <div id="details-modal-bottom-row">
+                    <button id="details-modal-keep-shopping">Keep Shopping</button>
+                    <a id="details-checkout-button" asp-area="Admin" asp-controller="Orders" asp-action="Add" asp-route-id="@Model.Product.ProductID">
+                        Checkout
+                    </a>
+                </div>
+                <div id="details-modal-X-container"></div>
+
             </div>
         </div>
+
     </section>
 </div>
 
@@ -115,8 +143,8 @@
             $('#details-modal').css('display', 'flex');
         });
 
-        $('#details-checkout-button').click(() => {
-            console.log("To checkout.");
+        $('#details-modal-keep-shopping').click(() => {
+            $('#details-modal').css('display', 'none');
         });
 
     </script>
