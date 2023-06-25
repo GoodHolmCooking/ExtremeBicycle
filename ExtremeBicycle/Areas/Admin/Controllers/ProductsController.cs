@@ -2,6 +2,9 @@
 using ExtremeBicycle.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using MoreLinq;
+using MoreLinq.Extensions;
+using System.Collections;
 
 namespace ExtremeBicycle.Areas.Admin.Controllers
 {
@@ -45,7 +48,7 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
 
             var model = await _context.Products
                 .Include(p => p.ProductType)
-                .Where(pt => pt.ProductTypeID == 1 || pt.ProductTypeID == 2 || pt.ProductTypeID == 3) 
+                .Where(pt => (pt.ProductTypeID == 1 || pt.ProductTypeID == 2 || pt.ProductTypeID == 3))
                 .ToListAsync();
 
             if (model == null) {
