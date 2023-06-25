@@ -58,9 +58,9 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
 
             products.Add(model);
 
-            if (products.Count == 0) { 
-                // Do nothing
-            }
+            //if (products.Count == 0) { 
+            //    // Do nothing
+            //}
 
             //var model = await _context.AllOrderDetails
             //    .Include(x => x.Product)
