@@ -76,6 +76,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.6, )"
+            },
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.4.2, )"
             }
           },
           "imports": [

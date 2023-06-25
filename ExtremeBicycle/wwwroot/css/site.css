@@ -476,6 +476,29 @@ footer {
         "similar similar";
 }
 
+#details-main-img-container {
+    position: relative;
+}
+
+#details-hover-container {
+    position: absolute;
+    top: 0;
+    left: 80px;
+    overflow: hidden;
+}
+
+#details-hover-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 10px solid gold;
+    opacity: 0;
+}
+
+#details-hover-img:hover {
+    opacity: 1;
+}
+
 #details-header {
     grid-area: detail-top;
 }

@@ -110,7 +110,7 @@
         <ul id="product-list">
             @foreach (var product in Model) {
                 <li class="product-li">
-                    <a class="product-card" asp-area="admin" asp-controller="products" asp-action="details" asp-route-id="@product.ProductID">
+                    <a class="product-card" asp-area="admin" asp-controller="products" asp-action="details" asp-route-id=@product.ProductID>
                         <div class="product-img-container">
                             <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png">
                         </div>
@@ -124,7 +124,7 @@
                             string price = String.Format("{0:C2}", Convert.ToInt32(product.PriceSRP));
                         }
                         <h3>@price</h3>
-                        <p>nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis nunc eget</p>
+                        <p>Aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
                     </a>
                 </li>
             }

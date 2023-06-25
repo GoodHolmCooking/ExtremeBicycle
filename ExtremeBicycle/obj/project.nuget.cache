@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yvVicxVMj9mF74lDM9CX5Gvi6AEHtxloi5naUFzfLs7OmkTbq4eAxdDrRQZ+9Yx1Ng2JeFXXkFwubN56AnajDw==",
+  "dgSpecHash": "uwZXIyDuQhVd7Bu+tFE3NAjr2ZuNz07HCLDWD+BLuG91ibbDCCzdhxpTHCat+Q38Y6QtaiOABr6Yol/51dM37Q==",
   "success": true,
   "projectFilePath": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\ExtremeBicycle.csproj",
   "expectedPackageFiles": [
@@ -74,6 +74,7 @@
     "C:\\Users\\rholm\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\rholm\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\rholm\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\rholm\\.nuget\\packages\\morelinq\\3.4.2\\morelinq.3.4.2.nupkg.sha512",
     "C:\\Users\\rholm\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\rholm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\rholm\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
