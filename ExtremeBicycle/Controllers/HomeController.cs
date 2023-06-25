@@ -1,12 +1,17 @@
 ﻿using ExtremeBicycle.Models;
+using ExtremeBicycle.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using System.Diagnostics;
 
 namespace ExtremeBicycle.Controllers {
     public class HomeController : Controller {
         private readonly ILogger<HomeController> _logger;
-        public HomeController(ILogger<HomeController> logger) {
+        private readonly ProductsContext _productContext;
+        public HomeController(ILogger<HomeController> logger, ProductsContext productsContext) {
             _logger = logger;
+            _productContext = productsContext;
         }
 
         public IActionResult Index() {
@@ -58,7 +63,31 @@ namespace ExtremeBicycle.Controllers {
             return View();
         }
 
+        [Route("searchResults")]
+        public IActionResult Find(string text)
+        {
+            if(text.IsNullOrEmpty())
+            {
+               HttpContext.Session.SetString("searched", "");
+                var query = _productContext.Products.AsQueryable();
+                query = query
+                    .Include(r => r.ProductType);
+                var searchedProducts = query.ToList();
+                return View(searchedProducts);
+            }
+            else
+            {
+                HttpContext.Session.SetString("searched", text);
+                var query = _productContext.Products.AsQueryable();
 
+                query = query.Where(r => r.ProductName.Contains(text) || r.ProductType.ProductTypeName.Contains(text) || r.Supplier.SupplierName.Contains(text))
+                    .Include(r => r.ProductType);
+                var searchedProducts = query.ToList();
+                //gets the items
+
+                return View(searchedProducts);
+            }
+        }
 
 
 

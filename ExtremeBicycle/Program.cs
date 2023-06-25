@@ -22,6 +22,8 @@ namespace ExtremeBicycle {
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            builder.Services.AddSession();
+
             builder.Services.AddRazorPages();
 
             var app = builder.Build();
@@ -41,6 +43,8 @@ namespace ExtremeBicycle {
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            app.UseSession();
 
             app.UseRouting();
 
