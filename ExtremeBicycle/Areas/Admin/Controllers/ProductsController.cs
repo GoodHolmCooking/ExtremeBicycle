@@ -47,55 +47,35 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
         public async Task<IActionResult> Bikes() {
 
             // Working code
-            //var model = await _context.Products
-            //    .Include(p => p.ProductType)
-            //    .Where(pt => (pt.ProductTypeID == 1 || pt.ProductTypeID == 2 || pt.ProductTypeID == 3))
-            //    .ToListAsync();
-
             var model = await _context.Products
                 .Include(p => p.ProductType)
                 .Where(pt => (pt.ProductTypeID == 1 || pt.ProductTypeID == 2 || pt.ProductTypeID == 3))
                 .ToListAsync();
 
-            var groupedModels = model
-                .GroupBy(p => new { p.ProductName, p.PriceSRP })
-                .Select(g => new ProductPreview {
-                    ProductName = g.Key.ProductName,
-                    PriceSRP = g.Key.PriceSRP
-                });
+            //var model = await _context.Products
+            //    .Include(p => p.ProductType)
+            //    .Where(pt => (pt.ProductTypeID == 1 || pt.ProductTypeID == 2 || pt.ProductTypeID == 3))
+            //    .ToListAsync();
+
+            //var groupedModels = model
+            //    .GroupBy(p => new { p.ProductName, p.PriceSRP })
+            //    .Select(g => new ProductPreview {
+            //        ProductName = g.Key.ProductName,
+            //        PriceSRP = g.Key.PriceSRP
+            //    });
 
             if (model == null) {
                 return NotFound();
             }
 
-            return View(groupedModels);
+            return View(model);
         }
 
         // GET: Admin/Products/Details/1101
-        //public async Task<IActionResult> Details(int? id) {
-
-        //    var product = await _context.Products
-        //        .Where(p => p.ProductID == id)
-        //        .Include(p => p.ProductType)
-        //        .FirstOrDefaultAsync();
-
-        //    if (product == null) {
-        //        return NotFound();
-        //    }
-
-        //    ProductDTO model = new ProductDTO();
-        //    model.Product = product;
-
-        //    return View(model);
-        //}
-
-        // GET: Admin/Products/Details
-        public async Task<IActionResult> Details(string? name) {
-
-            Console.WriteLine("Nope. Definitely found the right route");
+        public async Task<IActionResult> Details(int? id) {
 
             var product = await _context.Products
-                .Where(p => p.ProductName == name)
+                .Where(p => p.ProductID == id)
                 .Include(p => p.ProductType)
                 .FirstOrDefaultAsync();
 
@@ -108,6 +88,27 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
 
             return View(model);
         }
+
+
+        // GET: Admin/Products/Details
+        //public async Task<IActionResult> Details(string? name) {
+
+        //    Console.WriteLine("Nope. Definitely found the right route");
+
+        //    var product = await _context.Products
+        //        .Where(p => p.ProductName == name)
+        //        .Include(p => p.ProductType)
+        //        .FirstOrDefaultAsync();
+
+        //    if (product == null) {
+        //        return NotFound();
+        //    }
+
+        //    ProductDTO model = new ProductDTO();
+        //    model.Product = product;
+
+        //    return View(model);
+        //}
     }
 
 }
