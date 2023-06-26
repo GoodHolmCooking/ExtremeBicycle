@@ -1,4 +1,5 @@
-﻿@model IEnumerable<Product>
+﻿@*@model IEnumerable<Product>*@
+@model IEnumerable<ProductPreview>
 @using Microsoft.EntityFrameworkCore
 
 @{
@@ -110,7 +111,8 @@
         <ul id="product-list">
             @foreach (var product in Model) {
                 <li class="product-li">
-                    <a class="product-card" asp-area="admin" asp-controller="products" asp-action="details" asp-route-id=@product.ProductID>
+                    @*<a class="product-card" asp-area="admin" asp-controller="products" asp-action="details" asp-route-id=@product.ProductID>*@
+                    <a class="product-card" asp-area="admin" asp-controller="products" asp-action="details" asp-route-name=@product.ProductName>
                         <div class="product-img-container">
                             <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png">
                         </div>
