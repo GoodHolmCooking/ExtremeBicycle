@@ -290,7 +290,7 @@ footer {
 *******************************************************************************************************************************/
 .page-background-class {
     background-image: url(../ExtremeBicycleShop/ExtremeBicycleShop_V2/404Page_BackgroundHandleBars.png);
-    width: 1728px;
+    width: 100%;
     height: 694px;
     margin-block-end: 100px;
     border-block-end: solid black;
@@ -653,7 +653,6 @@ footer {
 * cart css 
 *******************************************************************************************************************************/
 
-/*reused details carousel here*/
 #cart-page {
     display: grid;
     grid-template-columns: 4fr 1fr;
@@ -676,16 +675,35 @@ footer {
     display: flex;
 }
 
+.cart-itembox {
+    display: flex;
+    flex-direction: column;
+}
+
 .cart-info {
     display: flex;
     justify-content: space-between;
 }
 
+.quantity-flex {
+    display: flex;
+    gap: 1rem
+}
+
 #quantity-border {
+    cursor:pointer;
+    display: flex;
     border: 1px solid black;
+    height: 2rem;
+}
+
+#quantity-border img {
+    height: 2rem;
+    width: auto;
 }
 
 .underline-style {
+    cursor: pointer;
     text-decoration: underline;
 }
 
@@ -711,6 +729,28 @@ footer {
     margin-right: 1em;
 }
 
+.hover {
+    cursor: pointer;
+}
+
+a.link-button {
+    color: #1A1C20;
+    background: linear-gradient(180deg, #CF7500 -23.44%, #D4AF37 118.97%);
+    border-radius: 3px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    width: 296px;
+    height: 44px;
+    text-decoration: none;
+    text-align: center;
+}
+
+    a.link-button:hover {
+        background: #DAC47D
+    }
+
 
 
 /******************************************************************************************************************************* 
@@ -735,4 +775,158 @@ footer {
 #checkOutSection2 {
     grid-area: checkCart;
     margin-right: 15em;
+}
+
+.input-formatting {
+    display:flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+.input-formatting label {
+    font-size: 14px;
+}
+
+.button-margin {
+    margin-block-end: 3rem;
+}
+
+.boxes {
+    font-size: 15px;
+}
+
+.boxes input {
+    margin-right: 1rem;
+}
+
+#edit-link {
+    color: inherit;
+}
+/*************** CONTACT DROP DOWN ******************/
+.contact-drop-button {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-drop-button img {
+    height: 1.5rem;
+    width: auto;
+}
+
+.contact-dropdown-items.show {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: -5px;
+}
+
+.contact-dropdown-items.show * {
+    display: flex;
+}
+
+.contact-dropdown-items {
+    display: none;
+}
+
+/*************** SHIPPING DROP DOWN ******************/
+
+.shipping-drop-button {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+    .shipping-drop-button img {
+        height: 1.5rem;
+        width: auto;
+    }
+
+.shipping-dropdown-items.show {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: -5px;
+}
+
+    .shipping-dropdown-items.show * {
+        display: flex;
+    }
+
+.shipping-dropdown-items {
+    display: none;
+}
+
+/*************** DELIVERY DROP DOWN ******************/
+
+.delivery-drop-button {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+    .delivery-drop-button img {
+        height: 1.5rem;
+        width: auto;
+    }
+
+.delivery-dropdown-items.show {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: -5px;
+}
+
+.delivery-dropdown-items.show * {
+    display: flex;
+}
+
+.delivery-dropdown-items {
+    display: none;
+}
+
+/*************** PAYMENT DROP DOWN ******************/
+
+.payment-drop-button {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+    .payment-drop-button img {
+        height: 1.5rem;
+        width: auto;
+    }
+
+.payment-dropdown-items.show {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: -5px;
+}
+
+    .payment-dropdown-items.show * {
+        display: flex;
+    }
+
+.payment-dropdown-items {
+    display: none;
 }

@@ -9,101 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExtremeBicycle
 build_property.RootNamespace = ExtremeBicycle
-build_property.ProjectDir = U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\
+build_property.ProjectDir = D:\Cameron\Documents\Bootcamp\MVC\ExtremeBicycle\ExtremeBicycle\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle
+build_property.MSBuildProjectDirectory = D:\Cameron\Documents\Bootcamp\MVC\ExtremeBicycle\ExtremeBicycle
 build_property._RazorSourceGeneratorDebug = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Orders/Cart.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Orders/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJzXENhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Orders/Checkout.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Orders/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJzXENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Bikes.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Bikes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQmlrZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Confirmation.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Confirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Details.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Index.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Type.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/Products/Type.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcVHlwZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Pages/Errors/404.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Pages/Errors/404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JzXDQwNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Pages/_ViewImports.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Pages/_ViewStart.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/Home/About.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/Home/Contact.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/Home/Faqs.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/Home/Faqs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/Home/Index.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/Home/Login.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/Home/Privacy.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/Shared/Error.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/_ViewImports.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/_ViewStart.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/Projects/Bootcamp/ExtremeBicycle/ExtremeBicycle/Views/Shared/_Layout.cshtml]
+[D:/Cameron/Documents/Bootcamp/MVC/ExtremeBicycle/ExtremeBicycle/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-um7e8ja58c

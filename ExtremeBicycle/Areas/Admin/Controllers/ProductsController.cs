@@ -1,4 +1,5 @@
-﻿using ExtremeBicycle.Models.DTO;
+﻿using ExtremeBicycle.Extensions;
+using ExtremeBicycle.Models.DTO;
 using ExtremeBicycle.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -71,6 +72,13 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
             model.Product = product;
 
             return View(model);
+        }
+
+        public async Task<IActionResult> Confirmation(int? id)
+        {
+            var confirmation = HttpContext.Session.GetCart();
+
+            return View(confirmation);
         }
     }
 

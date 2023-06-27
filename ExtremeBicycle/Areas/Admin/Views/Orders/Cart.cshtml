@@ -1,50 +1,55 @@
-﻿@*@model ExtremeBicycle.Models.Entities.Order*@
-
+﻿@model List<Product>
 
 @{
+
     ViewData["Title"] = "Orders";
-    var products = ViewBag.Cart;
+    var products = Model;
+
+    decimal? subtotal = 0;
+
+
+    foreach(var product in products)
+    {
+        subtotal += product.PriceSRP;
+    }
+
+    decimal? total = subtotal + 55.99M;
+
+    decimal? truncatedTotal = total.HasValue ? Math.Truncate(total.Value * 100) / 100 : null;
+
+    decimal? truncatedSub = subtotal.HasValue ? Math.Truncate(subtotal.Value * 100) / 100 : null;
 }
 
-
-
-@*
-this doesn't work, need to figure out why
-
-@foreach (var product in Model) {
-    <h4>product.ProductID</h4>
-}*@
-
-
-@*
-this one does work
-
-<h4>@Model.ProductID</h4>*@
 
 <div id="cart-page">
     <div id="top-titles">
         <h1>Cart</h1>
         <h2>Summary</h2>
     </div>
-    @foreach (var product in products)
-    {
-        <section id="cart-content">
-            <div id="bike-image">
-                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" />
-            </div>
-            <div id="cart-adjust">
-                <div>
-                    <div class="cart-info">
-                        <h2>@product.ProductName</h2>
-                        <p>
-                            Quantity
-                            <img id="quantity-border" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
-                        </p>
-                    </div>                   
+    <section id ="cart-content">
+        @foreach (var product in products)
+        {
+            <div class="cart-itembox">
+                <div id="bike-image">
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" />
                 </div>
-                <div class="cart-info">
+                <div id="cart-adjust">
+                    <div>
+                        <div class="cart-info">
+                            <h2>@product.ProductName</h2>
+                            <div class="quantity-flex">
+                                <p>Quantity</p>
+                                <div id="quantity-border">
+                                    <p>1</p>
+                                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="cart-info">
                         <p>Road Bike</p>
-                        <p class="underline-style">Remove</p>
+                        <p class="underline-style remove-cart-item">Remove</p>
                     </div>
                     <div id="details-aside-color-row">
                         <div>
@@ -55,16 +60,18 @@ this one does work
                     <p>
                         Series 5 Aluminum frame, gripping handle bars for road riding, Carbon material seat, and Titanium rims.
                     </p>
+                </div>
             </div>
-        </section>
-    }
+        }
+    </section>
+    
     
 
 
     <aside id="cart-aside">
         <div class="spaceBetween">
             <h5>Subtotal</h5>
-            <h5>$699.99</h5>
+            <h5>$ @truncatedSub</h5>
         </div>
         <div class="spaceBetween">
             <h5>Estimated Shipping</h5>
@@ -79,18 +86,19 @@ this one does work
 
         <div class="spaceBetween">
             <h5>Total</h5>
-            <h5>$755.98</h5>
+            <h5>$ @truncatedTotal</h5>
         </div>
         <div id="details-aside-btn-container">
-            <button id="details-cart-btn">Checkout</button>
+            <a id="details-checkout-button" class="link-button" asp-area="Admin" asp-controller="Orders" asp-action="Checkout">
+                Checkout
+            </a>
         </div>
     </aside>
 
-    @*reused details code here*@
     <section id="details-similar-section">
         <h3>Don't Forget These Items</h3>
         <div id="details-carousel-row">
-            <div>
+            <div class="hover">
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_LeftArrow.png" alt="left arrow">
             </div>
             <div class="details-similar-card">
@@ -113,7 +121,7 @@ this one does work
                 <h5>Hydration Belt Gru</h5>
                 <h5>$30.99</h5>
             </div>
-            <div>
+            <div class="hover">
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_RightArrow.png" alt="right arrow">
             </div>
         </div>
@@ -121,3 +129,14 @@ this one does work
 </div>
 
 
+@*@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $('.remove-cart-item').click(() => {
+            @products.Remove();
+        });
+    </script>
+}*@
