@@ -369,6 +369,11 @@ footer {
     padding: 1rem;
 }
 
+.product-heart-icon {
+    height: 28px;
+    width: auto;
+}
+
 #product-back {
     color: black;
     text-decoration: none;

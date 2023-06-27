@@ -18,7 +18,7 @@ namespace ExtremeBicycle.Models.Entities {
 
         public string? Gender { get; set; }
 
-        public decimal? PriceSRP { get; set; }
+        public decimal PriceSRP { get; set; }
 
         public int ProductTypeID { get; set; }
 

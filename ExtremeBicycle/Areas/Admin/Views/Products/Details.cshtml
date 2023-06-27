@@ -20,7 +20,7 @@
 <div>&nbsp;</div> <!-- Problem with spacing without this -->
 <div id="details-page">
     <div id="details-header">
-        <h4><a asp-area="" asp-controller="Home" asp-action="Index">Home</a> / <a asp-area="Admin" asp-controller="Products" asp-action="Bikes">Bikes</a> / Trek 3000</h4>
+        <h4><a asp-area="" asp-controller="Home" asp-action="Index">Home</a> / <a asp-area="Admin" asp-controller="Products" asp-action="Bikes">Bikes</a> / @Model.Product.ProductName</h4>
     </div>
     <section id="details-images">
         <div id="details-main-img-container">
@@ -51,13 +51,13 @@
         </div>
         <h4>@price</h4>
         <div id="details-aside-color-row">
-            <div>
+@*            <div>
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Color.png" alt="color">
-            </div>
-            <p>@color</p>
+            </div>*@
+            <h5>@color</h5>
         </div>
         <p>
-            We have all at one time or another mixed some mud. This is where you take out all your hostilities and frustrations. It's better than kicking the puppy dog around and all that so. God gave you this gift of imagination. Use it. Volunteering your time; it pays you and your whole community fantastic dividends. Just pretend you are a whisper floating across a mountain.
+            @Model.Product.ProductType.Description
         </p>
         <div id="details-aside-btn-container">
             <button id="details-cart-btn">Add To Cart</button>

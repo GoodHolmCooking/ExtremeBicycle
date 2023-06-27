@@ -1,8 +1,59 @@
 ﻿@model IEnumerable<Product>
+@*@model IEnumerable<ProductPreview>*@
 @using Microsoft.EntityFrameworkCore
 
 @{
     ViewData["Title"] = "Products";
+
+    var colors = new List<string>();
+    colors.Add("Blue");
+    colors.Add("Grey");
+    colors.Add("Red");
+    colors.Add("Green");
+    colors.Add("Yellow");
+
+    static string assignColor(string color) {
+        switch (color) {
+            case "steel satin":
+                return "grey";
+            case "radiant steel":
+                return "grey";
+            case "satin silver":
+                return "grey";
+            case "steel yellow":
+                return "yellow";
+            case "champagne ":
+                return "yellow";
+            case "jewel green":
+                return "green";
+            case "forest green":
+                return "green";
+            case "red":
+                return "red";
+            case "deep burgundy":
+                return "red";
+            case "blue":
+                return "blue";
+        }
+
+        return "undefined";
+    }
+
+    static string assignPriceRange(decimal price) {
+        if (price > 899) {
+            return "900plus";
+        }
+        else if (price > 699) {
+            return "700to899";
+        }
+        else if (price > 499) {
+            return "500to699";
+        }
+        else {
+            return "300to499";
+        }
+    }
+
 }
 <div id="product-page-row">
     <aside id="product-aside">
@@ -17,19 +68,19 @@
             </div>
             <div class="product-filter-content">
                 <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-price-300plus" />
+                    <input type="checkbox" name="priceRange" id="p-filter-price-300plus" />
                     <label for="p-filter-price-300plus">$300 to $499.99</label>
                 </div>
                 <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-price-500plus" />
+                    <input type="checkbox" name="priceRange" id="p-filter-price-500plus" />
                     <label for="p-filter-price-300plus">$500 to $699.99</label>
                 </div>
                 <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-price-700plus" />
+                    <input type="checkbox" name="priceRange" id="p-filter-price-700plus" />
                     <label for="p-filter-price-300plus">$700 to $899.99</label>
                 </div>
                 <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-price-900plus" />
+                    <input type="checkbox" name="priceRange" id="p-filter-price-900plus" />
                     <label for="p-filter-price-300plus">$900 and up</label>
                 </div>
             </div>
@@ -43,73 +94,33 @@
                 </div>
             </div>
             <div class="product-filter-content">
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-color-black" />
-                    <label for="p-filter-color-black">Black</label>
-                </div>
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-color-blue" />
-                    <label for="p-filter-color-blue">Blue</label>
-                </div>
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-color-grey" />
-                    <label for="p-filter-color-grey">Grey</label>
-                </div>
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-color-red" />
-                    <label for="p-filter-color-red">Red</label>
-                </div>
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-color-white" />
-                    <label for="p-filter-color-white">White</label>
-                </div>
+                @foreach (var color in colors) {
+                    <div class="product-filter-row">
+                        <input type="checkbox" name="color" id=@($"p-filter-color-{color}") class="p-color-checkbox" />
+                        <label for=@($"p-filter-color-{color}")>@color</label>
+                    </div>
+                }
             </div>
 
-        </section>
-
-        <section class="product-filter">
-            <div class="product-filter-heading">
-                <h3>Brand</h3>
-                <div class="product-filter-collapse-container">
-                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" class="product-down-arrow">
-                </div>
-            </div>
-            <div class="product-filter-content">
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-brand-electra" />
-                    <label for="p-filter-brand-electra">Electra</label>
-                </div>
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-brand-giant" />
-                    <label for="p-filter-brand-giant">Giant</label>
-                </div>
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-brand-liv" />
-                    <label for="p-filter-brand-liv">Liv</label>
-                </div>
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-brand-momentum" />
-                    <label for="p-filter-brand-momentum">Momentum</label>
-                </div>
-                <div class="product-filter-row">
-                    <input type="checkbox" id="p-filter-brand-trek" />
-                    <label for="p-filter-brand-trek">Trek</label>
-                </div>
-            </div>
         </section>
     </aside>
     <section id="product-store-section">
         <div id="product-store-header">
             <div id="p-store-header-content">
-                <p>Sort By</p>
+ @*               <p>Sort By</p>
                 <div id="p-store-dropdown-img-container">
                     <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" class="product-down-arrow">
-                </div>
+                </div>*@
             </div>
         </div>
         <ul id="product-list">
             @foreach (var product in Model) {
-                <li class="product-li">
+
+                var colorCategory = "product-category-" + assignColor(product.Color);
+                var priceCategory = "product-category-" + assignPriceRange(product.PriceSRP);
+
+                <li class="product-li @colorCategory @priceCategory">
+                    @*<li class=@($"product-li product-category-{assignColor(product.Color)}")>*@
                     <a class="product-card" asp-area="admin" asp-controller="products" asp-action="details" asp-route-id=@product.ProductID>
                         <div class="product-img-container">
                             <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png">
@@ -117,13 +128,20 @@
                         <div class="product-title-row">
                             <h3>@product.ProductName</h3>
                             <div class="product-heart-container">
-                                <i class="fa-regular fa-heart"></i>
+                                <img class="product-heart-icon" src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Heart.png">
                             </div>
                         </div>
                         @{
                             string price = String.Format("{0:C2}", Convert.ToInt32(product.PriceSRP));
                         }
                         <h3>@price</h3>
+                        @{
+                        string color =
+                            System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.
+                            ToTitleCase(product.Color.ToLower());
+                        }
+                        <h4>@color</h4>
+                        <h4>Size: @product.Size</h4>
                         <p>Aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
                     </a>
                 </li>
@@ -151,7 +169,121 @@
                 $content.css('height', '0px');
                 $arrow.css('transform', 'rotate(0deg)');
             }
-
         });
+
+        var filters = [];
+
+        // Get checked boxes
+        $(document).ready(function() {
+            // color checkboxes
+            $('input[type="checkbox"][name="color"]').on('click', function () {
+                console.log(filters);
+                let selectedValue = $(this).siblings('label').text();
+                let categoryName = ".product-category-" + selectedValue.toLowerCase();
+
+                // if the filter is applied
+                if (filters.includes(categoryName)) {
+                    let filterIndex = filters.findIndex(filter => {
+                        return filter === categoryName;
+                    })
+
+                    // remove filter
+                    console.log(`Removing ${categoryName}`);
+                    filters.splice(filterIndex, 1);
+                }
+
+                // the filter is not applied
+                else {
+                    console.log(`Adding ${categoryName}`);
+                    filters.push(categoryName);
+                }
+
+                console.log(`filters length: ${filters.length}`);
+                // No filters are applied
+                if (filters.length === 0) {
+                    // Show everything
+                    $("#product-list li").show();
+                }
+
+                // At least one filter is applied
+                else {
+                    // hide everything
+                    console.log("Hiding everything");
+                    $("#product-list li").hide();
+
+                    // get combination of classes to show
+                    let combinedCategoryString = ''.concat(...filters);
+
+                    // show items based on filters
+                    $(combinedCategoryString).show();
+                }
+            });
+
+            // price range checkboxes
+            $('input[type="checkbox"][name="priceRange"]').on('click', function () {
+                console.log("Function ran");
+                let selectedValue = $(this).siblings('label').text();
+                let categoryName = ".product-category-";
+                
+                switch(selectedValue) {
+                    case "$900 and up":
+                        categoryName += "900plus";
+                        break;
+                    case "$700 to $899.99":
+                        categoryName += "700to899";
+                        break;
+                    case "$500 to $699.99":
+                        categoryName += "500to699";
+                        break;
+                    case "$300 to $499.99":
+                        categoryName += "300to499";
+                        break;
+                    default:
+                        categoryName += "undefined";
+                        break;
+                }
+
+                console.log(`Price category name after switch statement. ${categoryName}`);
+
+                // if the filter is applied
+                if (filters.includes(categoryName)) {
+                    let filterIndex = filters.findIndex(filter => {
+                        return filter === categoryName;
+                    })
+
+                    // remove filter
+                    console.log(`Removing ${categoryName}`);
+                    filters.splice(filterIndex, 1);
+                }
+
+                // the filter is not applied
+                else {
+                    console.log(`Adding ${categoryName}`);
+                    filters.push(categoryName);
+                }
+
+                console.log(`filters length: ${filters.length}`);
+                // No filters are applied
+                if (filters.length === 0) {
+                    // Show everything
+                    $("#product-list li").show();
+                }
+
+                // At least one filter is applied
+                else {
+                    // hide everything
+                    console.log("Hiding everything");
+                    $("#product-list li").hide();
+
+                    // get combination of classes to show
+                    let combinedCategoryString = ''.concat(...filters);
+
+                    console.log(`showing ${combinedCategoryString}`);
+                    // show items based on filters
+                    $(combinedCategoryString).show();
+                }
+            });
+        });
+
     </script>
 }
