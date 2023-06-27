@@ -177,7 +177,6 @@
         $(document).ready(function() {
             // color checkboxes
             $('input[type="checkbox"][name="color"]').on('click', function () {
-                console.log(filters);
                 let selectedValue = $(this).siblings('label').text();
                 let categoryName = ".product-category-" + selectedValue.toLowerCase();
 
@@ -188,17 +187,14 @@
                     })
 
                     // remove filter
-                    console.log(`Removing ${categoryName}`);
                     filters.splice(filterIndex, 1);
                 }
 
                 // the filter is not applied
                 else {
-                    console.log(`Adding ${categoryName}`);
                     filters.push(categoryName);
                 }
 
-                console.log(`filters length: ${filters.length}`);
                 // No filters are applied
                 if (filters.length === 0) {
                     // Show everything
@@ -208,7 +204,6 @@
                 // At least one filter is applied
                 else {
                     // hide everything
-                    console.log("Hiding everything");
                     $("#product-list li").hide();
 
                     // get combination of classes to show
@@ -221,7 +216,6 @@
 
             // price range checkboxes
             $('input[type="checkbox"][name="priceRange"]').on('click', function () {
-                console.log("Function ran");
                 let selectedValue = $(this).siblings('label').text();
                 let categoryName = ".product-category-";
                 
@@ -243,8 +237,6 @@
                         break;
                 }
 
-                console.log(`Price category name after switch statement. ${categoryName}`);
-
                 // if the filter is applied
                 if (filters.includes(categoryName)) {
                     let filterIndex = filters.findIndex(filter => {
@@ -252,17 +244,14 @@
                     })
 
                     // remove filter
-                    console.log(`Removing ${categoryName}`);
                     filters.splice(filterIndex, 1);
                 }
 
                 // the filter is not applied
                 else {
-                    console.log(`Adding ${categoryName}`);
                     filters.push(categoryName);
                 }
 
-                console.log(`filters length: ${filters.length}`);
                 // No filters are applied
                 if (filters.length === 0) {
                     // Show everything
@@ -272,13 +261,11 @@
                 // At least one filter is applied
                 else {
                     // hide everything
-                    console.log("Hiding everything");
                     $("#product-list li").hide();
 
                     // get combination of classes to show
                     let combinedCategoryString = ''.concat(...filters);
 
-                    console.log(`showing ${combinedCategoryString}`);
                     // show items based on filters
                     $(combinedCategoryString).show();
                 }
