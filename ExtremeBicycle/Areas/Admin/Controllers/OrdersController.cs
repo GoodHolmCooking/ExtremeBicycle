@@ -1,4 +1,5 @@
-﻿using ExtremeBicycle.Models.DTO;
+﻿using ExtremeBicycle.Extensions;
+using ExtremeBicycle.Models.DTO;
 using ExtremeBicycle.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -15,7 +16,11 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
             _context = context;
         }
 
-        public static List<Product> products { get; set; } = new List<Product>();
+        public static decimal? total = 0;
+
+        //public static List<Product> products { get; set; } = new List<Product>();
+
+
 
         //Admin/Orders/cart/ID
         public async Task<IActionResult> Index()
@@ -37,13 +42,13 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
             //.Where(x => x.OrderID == id)
             //.FirstOrDefaultAsync();
 
-            ViewBag.Cart = products;
+            var cart = HttpContext.Session.GetCart();
 
-            if (ViewBag.Cart != null) {
+            if (cart != null) {
                 // Test
             }
 
-            return View();
+            return View(cart);
         }
 
         public async Task<IActionResult> Add(int? id) {
@@ -56,11 +61,16 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            products.Add(model);
+            var cart = HttpContext.Session.GetCart();
 
-            //if (products.Count == 0) { 
-            //    // Do nothing
-            //}
+
+            cart.Add(model);
+
+            HttpContext.Session.SetCart(cart);
+
+            if (cart.Count == 0) { 
+                // Do nothing
+            }
 
             //var model = await _context.AllOrderDetails
             //    .Include(x => x.Product)
@@ -76,7 +86,9 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
 
         public async Task<IActionResult> Checkout(int? id)
         {
-            return View();
+            var cart = HttpContext.Session.GetCart();
+
+            return View(cart);
         }
     }
 }
