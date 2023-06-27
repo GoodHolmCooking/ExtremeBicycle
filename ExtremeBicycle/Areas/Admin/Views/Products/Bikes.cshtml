@@ -40,13 +40,13 @@
     }
 
     static string assignPriceRange(decimal price) {
-        if (price >= 900) {
-            return "900+";
+        if (price > 899) {
+            return "900plus";
         }
-        else if (price >= 700) {
+        else if (price > 699) {
             return "700to899";
         }
-        else if (price >= 500) {
+        else if (price > 499) {
             return "500to699";
         }
         else {
@@ -68,19 +68,19 @@
             </div>
             <div class="product-filter-content">
                 <div class="product-filter-row">
-                    <input type="checkbox" name="priceRange" id="p-filter-price-300plus" checked />
+                    <input type="checkbox" name="priceRange" id="p-filter-price-300plus" />
                     <label for="p-filter-price-300plus">$300 to $499.99</label>
                 </div>
                 <div class="product-filter-row">
-                    <input type="checkbox" name="priceRange" id="p-filter-price-500plus" checked />
+                    <input type="checkbox" name="priceRange" id="p-filter-price-500plus" />
                     <label for="p-filter-price-300plus">$500 to $699.99</label>
                 </div>
                 <div class="product-filter-row">
-                    <input type="checkbox" name="priceRange" id="p-filter-price-700plus" checked />
+                    <input type="checkbox" name="priceRange" id="p-filter-price-700plus" />
                     <label for="p-filter-price-300plus">$700 to $899.99</label>
                 </div>
                 <div class="product-filter-row">
-                    <input type="checkbox" name="priceRange" id="p-filter-price-900plus" checked />
+                    <input type="checkbox" name="priceRange" id="p-filter-price-900plus" />
                     <label for="p-filter-price-300plus">$900 and up</label>
                 </div>
             </div>
@@ -96,7 +96,7 @@
             <div class="product-filter-content">
                 @foreach (var color in colors) {
                     <div class="product-filter-row">
-                        <input type="checkbox" name="color" id=@($"p-filter-color-{color}") class="p-color-checkbox" checked />
+                        <input type="checkbox" name="color" id=@($"p-filter-color-{color}") class="p-color-checkbox" />
                         <label for=@($"p-filter-color-{color}")>@color</label>
                     </div>
                 }
@@ -171,23 +171,63 @@
             }
         });
 
+        var filters = [];
+
         // Get checked boxes
         $(document).ready(function() {
-            $('input[type="checkbox"]').on('click', function () {
-                console.log("Function ran");
+            // color checkboxes
+            $('input[type="checkbox"][name="color"]').on('click', function () {
+                console.log(filters);
                 let selectedValue = $(this).siblings('label').text();
                 let categoryName = ".product-category-" + selectedValue.toLowerCase();
-                $(categoryName).toggle();
+
+                // if the filter is applied
+                if (filters.includes(categoryName)) {
+                    let filterIndex = filters.findIndex(filter => {
+                        return filter === categoryName;
+                    })
+
+                    // remove filter
+                    console.log(`Removing ${categoryName}`);
+                    filters.splice(filterIndex, 1);
+                }
+
+                // the filter is not applied
+                else {
+                    console.log(`Adding ${categoryName}`);
+                    filters.push(categoryName);
+                }
+
+                console.log(`filters length: ${filters.length}`);
+                // No filters are applied
+                if (filters.length === 0) {
+                    // Show everything
+                    $("#product-list li").show();
+                }
+
+                // At least one filter is applied
+                else {
+                    // hide everything
+                    console.log("Hiding everything");
+                    $("#product-list li").hide();
+
+                    // get combination of classes to show
+                    let combinedCategoryString = ''.concat(...filters);
+
+                    // show items based on filters
+                    $(combinedCategoryString).show();
+                }
             });
 
+            // price range checkboxes
             $('input[type="checkbox"][name="priceRange"]').on('click', function () {
                 console.log("Function ran");
                 let selectedValue = $(this).siblings('label').text();
-                let categoryName = "product-category-";
+                let categoryName = ".product-category-";
                 
                 switch(selectedValue) {
                     case "$900 and up":
-                        categoryName += "900+";
+                        categoryName += "900plus";
                         break;
                     case "$700 to $899.99":
                         categoryName += "700to899";
@@ -202,7 +242,46 @@
                         categoryName += "undefined";
                         break;
                 }
-                $(categoryName).toggle();
+
+                console.log(`Price category name after switch statement. ${categoryName}`);
+
+                // if the filter is applied
+                if (filters.includes(categoryName)) {
+                    let filterIndex = filters.findIndex(filter => {
+                        return filter === categoryName;
+                    })
+
+                    // remove filter
+                    console.log(`Removing ${categoryName}`);
+                    filters.splice(filterIndex, 1);
+                }
+
+                // the filter is not applied
+                else {
+                    console.log(`Adding ${categoryName}`);
+                    filters.push(categoryName);
+                }
+
+                console.log(`filters length: ${filters.length}`);
+                // No filters are applied
+                if (filters.length === 0) {
+                    // Show everything
+                    $("#product-list li").show();
+                }
+
+                // At least one filter is applied
+                else {
+                    // hide everything
+                    console.log("Hiding everything");
+                    $("#product-list li").hide();
+
+                    // get combination of classes to show
+                    let combinedCategoryString = ''.concat(...filters);
+
+                    console.log(`showing ${combinedCategoryString}`);
+                    // show items based on filters
+                    $(combinedCategoryString).show();
+                }
             });
         });
 
