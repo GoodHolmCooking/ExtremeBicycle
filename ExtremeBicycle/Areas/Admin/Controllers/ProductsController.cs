@@ -89,6 +89,17 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
             return View(model);
         }
 
+        //[HttpPost]
+        //public async Task<IActionResult> FilterBikes(string[] selectedColors) {
+
+        //    var model = await _context.Products
+        //        .Include(p => p.ProductType)
+        //        .Where(p => (p.ProductTypeID == 1 || p.ProductTypeID == 2 || p.ProductTypeID == 3) && (selectedColors.Contains(p.Color)))
+        //        .ToListAsync();
+
+        //    return PartialView();
+        //}
+
 
         // GET: Admin/Products/Details
         //public async Task<IActionResult> Details(string? name) {
