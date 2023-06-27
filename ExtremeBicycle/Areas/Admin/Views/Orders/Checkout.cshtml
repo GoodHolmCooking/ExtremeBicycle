@@ -1,40 +1,140 @@
-﻿@model ExtremeBicycle.Models.Entities.OrderDetails
+﻿@model List<Product>
 
 @{
+
     ViewData["Title"] = "Orders";
+    var products = Model;
+
+    decimal? subtotal = 0;
+
+
+    foreach(var product in products)
+    {
+        subtotal += product.PriceSRP;
+    }
+
+    decimal? total = subtotal + 55.99M;
+
+    decimal? truncatedTotal = total.HasValue ? Math.Truncate(total.Value * 100) / 100 : null;
+
+    decimal? truncatedSub = subtotal.HasValue ? Math.Truncate(subtotal.Value * 100) / 100 : null;
+
 }
+
 
 <div id="checkout-page">
     <section id="checkOutSection1">
         <h1>Checkout</h1>
         <p>Hi, Paola!</p>
         <p>Save your information to make the next purchase faster!</p>
-        <div class="details-aside-collapsible-row">
-            <p>Contact</p>
-            <div>
-                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+        <div>
+            <div class="contact-drop-button">
+                <p>Contact</p>
+                <div>
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+                </div>
+            </div>
+            <div class="contact-dropdown-items">
+                <div class="input-formatting">
+                    <label for="Email">Email*</label>
+                    <input type="email" id="Email" required />
+                </div>
+                <div class="input-formatting">
+                    <label for="PhoneNumber">Phone Number*</label>
+                    <input type="tel" id="PhoneNumber" required />
+                </div>
             </div>
         </div>
-        <div class="details-aside-collapsible-row">
-            <p>Shipping</p>
-            <div>
-                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+        <div>
+            <div class="shipping-drop-button">
+                <p>Shipping</p>
+                <div>
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+                </div>
+            </div>
+            <div class="shipping-dropdown-items">
+                <div class="input-formatting">
+                    <label for="FirstName">First Name*</label>
+                    <input type="text" id="FirstName" required />
+                </div>
+                <div class="input-formatting">
+                    <label for="LastName">Last Name*</label>
+                    <input type="text" id="LastName" required />
+                </div>
+                <div class="input-formatting">
+                    <label for="Address">Address*</label>
+                    <input type="text" id="Address" required />
+                </div>
+                <div class="input-formatting">
+                    <label for="City">City*</label>
+                    <input type="text" id="City" required />
+                </div>
+                <div class="input-formatting">
+                    <label for="State">State*</label>
+                    <input type="text" id="State" required />
+                </div>
+                <div class="input-formatting">
+                    <label for="Zip">Zip Code*</label>
+                    <input type="number" id="Zip" required />
+                </div>
+                <div class="boxes">
+                    <input type="checkbox" id="SaveAddress" required />
+                    <label for="SaveAddress">Save address for future purchases</label>
+                </div>
             </div>
         </div>
-        <div class="details-aside-collapsible-row">
-            <p>Delivery Method</p>
-            <div>
-                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+        <div>
+            <div class="delivery-drop-button">
+                <p>Delivery Method</p>
+                <div>
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+                </div>
             </div>
+            <form class="delivery-dropdown-items">
+                <div class="boxes">
+                    <input type="radio" id="Free" name="method" required />
+                    <label for="Free">Standard Shipping - Free : Arrives in 4-7 Business Days</label>
+                </div>
+                <div class="boxes">
+                    <input type="radio" id="TwoDay" name="method" required />
+                    <label for="TwoDay">2 Day Shipping - $50.95 : Arrives in 2 Business Days</label>
+                </div>
+                <div class="boxes">
+                    <input type="radio" id="NextDay" name="method" required />
+                    <label for="NextDay">Next Day Shipping - $89.95 : Arrives the Next Business Day</label>
+                </div>
+            </form> 
         </div>
-        <div class="details-aside-collapsible-row">
-            <p>Payment</p>
-            <div>
-                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+        <div>
+            <div class="payment-drop-button">
+                <p>Payment</p>
+                <div>
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
+                </div>
+            </div>
+            <div class="payment-dropdown-items">
+                <div class="input-formatting">
+                    <label for="CardNumber">Card Number*</label>
+                    <input type="number" id="CardNumber" required />
+                </div>
+                <div class="input-formatting">
+                    <label for="Expiration">Expiration (MM/YYYY)</label>
+                    <input type="number" id="Expiration" required />
+                </div>
+                <div class="input-formatting">
+                    <label for="SecurityCode">Security Code</label>
+                    <input type="number" id="SecurityCode" required />
+                </div>
+                <div class="boxes">
+                    <input type="checkbox" id="SaveCard" required />
+                    <label for="SaveCard">Save card for future purchases</label>
+                </div>
             </div>
         </div>
         <div id="details-aside-btn-container">
-            <button id="details-cart-btn">Place Order</button>
+            <a id="details-checkout-button" class="link-button button-margin" asp-area="Admin" asp-controller="Products" asp-action="Confirmation">
+                Place Order
+            </a>
         </div>
     </section>
 
@@ -43,7 +143,7 @@
             <h1>Cart <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Edit.png" /></h1>
         </div>
         <div class="spaceBetween">
-            <h5>Subtotal</h5><h5>$699.99</h5>
+            <h5>Subtotal</h5><h5>$ @truncatedSub</h5>
         </div>
         <div class="spaceBetween">
             <h5>Estimated Shipping</h5><h5>Free</h5>
@@ -55,10 +155,12 @@
         <div class="total-border"></div>
 
         <div class="spaceBetween">
-            <h5>Total</h5><h5>$755.98</h5>
+            <h5>Total</h5><h5>$ @truncatedTotal</h5>
         </div>
         <div class="underline-style">
-            <p>View Cart</p>
+            <a id="edit-link" asp-area="Admin" asp-controller="Orders" asp-action="Cart">
+                View Cart
+            </a>
         </div>
     </section>
 </div>

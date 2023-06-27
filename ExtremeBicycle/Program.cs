@@ -19,6 +19,8 @@ namespace ExtremeBicycle {
                 options.UseSqlServer(conx);
             });
 
+            builder.Services.AddSession();
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 

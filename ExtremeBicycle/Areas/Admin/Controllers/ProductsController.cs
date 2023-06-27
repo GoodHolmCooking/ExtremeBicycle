@@ -1,10 +1,8 @@
-﻿using ExtremeBicycle.Models.DTO;
+﻿using ExtremeBicycle.Extensions;
+using ExtremeBicycle.Models.DTO;
 using ExtremeBicycle.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MoreLinq;
-using MoreLinq.Extensions;
-using System.Collections;
 
 namespace ExtremeBicycle.Areas.Admin.Controllers
 {
@@ -46,23 +44,10 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
         // Admin/Products/Bikes
         public async Task<IActionResult> Bikes() {
 
-            // Working code
             var model = await _context.Products
                 .Include(p => p.ProductType)
-                .Where(pt => (pt.ProductTypeID == 1 || pt.ProductTypeID == 2 || pt.ProductTypeID == 3))
+                .Where(pt => pt.ProductTypeID == 1 || pt.ProductTypeID == 2 || pt.ProductTypeID == 3) 
                 .ToListAsync();
-
-            //var model = await _context.Products
-            //    .Include(p => p.ProductType)
-            //    .Where(pt => (pt.ProductTypeID == 1 || pt.ProductTypeID == 2 || pt.ProductTypeID == 3))
-            //    .ToListAsync();
-
-            //var groupedModels = model
-            //    .GroupBy(p => new { p.ProductName, p.PriceSRP })
-            //    .Select(g => new ProductPreview {
-            //        ProductName = g.Key.ProductName,
-            //        PriceSRP = g.Key.PriceSRP
-            //    });
 
             if (model == null) {
                 return NotFound();
@@ -89,37 +74,12 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
             return View(model);
         }
 
-        //[HttpPost]
-        //public async Task<IActionResult> FilterBikes(string[] selectedColors) {
+        public async Task<IActionResult> Confirmation(int? id)
+        {
+            var confirmation = HttpContext.Session.GetCart();
 
-        //    var model = await _context.Products
-        //        .Include(p => p.ProductType)
-        //        .Where(p => (p.ProductTypeID == 1 || p.ProductTypeID == 2 || p.ProductTypeID == 3) && (selectedColors.Contains(p.Color)))
-        //        .ToListAsync();
-
-        //    return PartialView();
-        //}
-
-
-        // GET: Admin/Products/Details
-        //public async Task<IActionResult> Details(string? name) {
-
-        //    Console.WriteLine("Nope. Definitely found the right route");
-
-        //    var product = await _context.Products
-        //        .Where(p => p.ProductName == name)
-        //        .Include(p => p.ProductType)
-        //        .FirstOrDefaultAsync();
-
-        //    if (product == null) {
-        //        return NotFound();
-        //    }
-
-        //    ProductDTO model = new ProductDTO();
-        //    model.Product = product;
-
-        //    return View(model);
-        //}
+            return View(confirmation);
+        }
     }
 
 }
