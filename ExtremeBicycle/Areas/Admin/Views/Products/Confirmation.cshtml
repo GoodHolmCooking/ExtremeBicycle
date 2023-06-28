@@ -1,14 +1,13 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model List<Product>
+
 @{
 }
 
 <section id="ProfileInfo">
     <section id="ThankYouForTheOrder">
-        <h1>Thank you for your order, Paola!</h1>
+        <h1>Username</h1>
         <p>
-            We sent an email receipt to <span>Paola.live@gmail.com</span> and will
+            We sent an email receipt to <span id="confirm-email-span"></span> and will
             send an update once we ship your purchase if you are experiencing andy issues, contact
             <span>
                 support@extremecycle.com
@@ -100,3 +99,15 @@
     <a>Return Policy</a>
     <a>Print Order</a>
 </section>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+
+            // set email
+            let email = sessionStorage.getItem("email");
+            $('#confirm-email-span').text(email);
+        });
+      
+    </script>
+}
