@@ -25,7 +25,6 @@
 <div id="checkout-page">
     <section id="checkOutSection1">
         <h1>Checkout</h1>
-        <p>Hi, Paola!</p>
         <p>Save your information to make the next purchase faster!</p>
         <div>
             <div class="contact-drop-button">
@@ -164,3 +163,12 @@
         </div>
     </section>
 </div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $('#details-checkout-button').on('click', function(){
+            let email = $('#Email').val();
+            sessionStorage.setItem("email", email);
+        });
+    </script>
+}
