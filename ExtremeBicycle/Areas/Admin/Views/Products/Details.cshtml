@@ -25,15 +25,26 @@
     <section id="details-images">
         <div id="details-main-img-container">
             <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" alt="main image" id="details-main-img">
-            <div id="details-hover-container">
-                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeSeat.png" alt="main image" id="details-hover-img">
+            <div id="details-hover-container" class="details-hover-effect">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" alt="main image" id="details-hover-img">
             </div>
         </div>
         <div id="details-small-img-row">
-            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeSeat.png" alt="small image">
-            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeTire.png" alt="small image">
-            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeHighView.png" alt="small image">
-            <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeBackside.png" alt="small image">
+            <button class="details-small-img-container">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeSeat.png" alt="small image">
+            </button>
+
+            <button class="details-small-img-container">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeTire.png" alt="small image">
+            </button>
+
+            <button class="details-small-img-container">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeHighView.png" alt="small image">
+            </button>
+
+            <button class="details-small-img-container">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeBackside.png" alt="small image">
+            </button>   
         </div>
     </section>
     <aside id="details-aside">
@@ -63,13 +74,51 @@
             <button id="details-cart-btn">Add To Cart</button>
             <button id="details-favorite-btn">Favorite <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Heart.png" alt="heart icon"></button>
         </div>
-        <div class="details-aside-collapsible-row">
+
+@*        <div class="details-aside-collapsible-row">
             <p>Product Details</p>
             <div>
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
             </div>
-        </div>
-        <div class="details-aside-collapsible-row">
+        </div>*@
+
+        <section class="product-filter details-spacing-top">
+            <div class="product-filter-heading">
+                <p>Product Details</p>
+                <div class="product-filter-collapse-container">
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" class="product-down-arrow">
+                </div>
+            </div>
+            <div class="product-filter-content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. </p>
+            </div>
+        </section>
+
+        <section class="product-filter details-spacing-top">
+            <div class="product-filter-heading">
+                <p>Reviews (33)</p>
+                <div class="product-filter-collapse-container">
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" class="product-down-arrow">
+                </div>
+            </div>
+            <div class="product-filter-content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. </p>
+            </div>
+        </section>
+
+        <section class="product-filter details-spacing-top">
+            <div class="product-filter-heading">
+                <p>Size Chart</p>
+                <div class="product-filter-collapse-container">
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" class="product-down-arrow">
+                </div>
+            </div>
+            <div class="product-filter-content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. </p>
+            </div>
+        </section>
+
+@*        <div class="details-aside-collapsible-row">
             <p>Reviews (33)</p>
             <div>
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
@@ -80,7 +129,7 @@
             <div>
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
             </div>
-        </div>
+        </div>*@
     </aside>
     <section id="details-similar-section">
         <h3>Similar Rides For You</h3>
@@ -146,6 +195,8 @@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{/* CDN for Magnify plugin */}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnify/2.3.3/js/jquery.magnify.min.js" integrity="sha512-YKxHqn7D0M5knQJO2xKHZpCfZ+/Ta7qpEHgADN+AkY2U2Y4JJtlCEHzKWV5ZE87vZR3ipdzNJ4U/sfjIaoHMfw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
         $('#details-cart-btn').click(() => {
             $('#details-modal').css('display', 'flex');
@@ -153,6 +204,47 @@
 
         $('#details-modal-keep-shopping').click(() => {
             $('#details-modal').css('display', 'none');
+        });
+
+        // Accordion handling
+        $('.product-filter-heading').click(function () {
+            var $arrow = $(this).find('img');
+            var $content = $(this).next();
+
+            $content.toggleClass('open');
+
+            if ($content.hasClass('open')) {
+                let height = `${$content.prop('scrollHeight')}px`;
+
+                $content.css('height', height);
+                $arrow.css('transform', 'rotate(180deg)');
+            }
+            else {
+                $content.css('height', '0px');
+                $arrow.css('transform', 'rotate(0deg)');
+            }
+        });
+
+        // Image swap function
+        $('.details-small-img-container').click(function () {
+            let mainImgSrc = $('#details-main-img').attr('src');
+            let smallImgSrc = $(this).find('img').attr('src');
+
+            $('#details-main-img').attr('src', smallImgSrc);
+            $('#details-hover-img').attr('src', smallImgSrc);
+
+            if ($('#details-hover-container').hasClass('details-hover-effect')) {
+                $('#details-hover-container').removeClass('details-hover-effect');
+                $('#details-hover-container').hide();
+            }
+
+            if ($(this).hasClass('details-main-img-swapped')) {
+                $(this).find('img').attr('src', mainImgSrc);
+            }
+            else {
+                $('#details-main-img').addClass('details-main-img-swapped');
+            }
+            
         });
 
     </script>
