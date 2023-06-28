@@ -77,6 +77,11 @@ namespace ExtremeBicycle.Areas.Admin.Controllers
         public async Task<IActionResult> Confirmation(int? id)
         {
             var confirmation = HttpContext.Session.GetCart();
+            //var demo = HttpContext.Session.GetString("test");
+
+            //ConfirmationDTO dto = new ConfirmationDTO();
+            //dto.test = demo;
+            //dto.cart = confirmation;
 
             return View(confirmation);
         }
