@@ -485,24 +485,33 @@ footer {
     position: relative;
 }
 
+#details-main-img {
+    width: 1126px;
+    height: 689px;
+}
+
+
 #details-hover-container {
     position: absolute;
     top: 0;
-    left: 110px;
-    width: 200px;
-    height: 200px;
+    left: 120px;
+    width: 400px;
+    height: 400px;
     border: 10px solid gold;
     border-radius: 50%;
     overflow: hidden;
+}
+
+.details-hover-effect {
     opacity: 0;
 }
 
 #details-hover-img {
-    zoom: 2;
-    transform: translate(-150px, 0px);
+    zoom: 3;
+    transform: translate(-140px, 10px);
 }
 
-#details-hover-container:hover {
+.details-hover-effect:hover {
     opacity: 1;
 }
 
@@ -542,9 +551,19 @@ footer {
     margin-block-end: 2rem;
 }
 
-#details-small-img-row img {
+.details-small-img-container {
     width: 23%;
+    background: none;
+    border: none;
 }
+
+.details-small-img-container:hover {
+    background: none;
+}
+
+/*#details-small-img-row img {
+    width: 23%;
+}*/
 
 #details-review-stars {
     display: flex;
