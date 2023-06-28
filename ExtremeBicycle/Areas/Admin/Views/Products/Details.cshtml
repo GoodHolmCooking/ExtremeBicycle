@@ -26,7 +26,7 @@
         <div id="details-main-img-container">
             <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" alt="main image" id="details-main-img">
             <div id="details-hover-container">
-                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Trek3000_BikeSeat.png" alt="main image" id="details-hover-img">
+                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" alt="main image" id="details-hover-img">
             </div>
         </div>
         <div id="details-small-img-row">
@@ -63,13 +63,51 @@
             <button id="details-cart-btn">Add To Cart</button>
             <button id="details-favorite-btn">Favorite <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_Heart.png" alt="heart icon"></button>
         </div>
-        <div class="details-aside-collapsible-row">
+
+@*        <div class="details-aside-collapsible-row">
             <p>Product Details</p>
             <div>
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
             </div>
-        </div>
-        <div class="details-aside-collapsible-row">
+        </div>*@
+
+        <section class="product-filter details-spacing-top">
+            <div class="product-filter-heading">
+                <p>Product Details</p>
+                <div class="product-filter-collapse-container">
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" class="product-down-arrow">
+                </div>
+            </div>
+            <div class="product-filter-content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. </p>
+            </div>
+        </section>
+
+        <section class="product-filter details-spacing-top">
+            <div class="product-filter-heading">
+                <p>Reviews (33)</p>
+                <div class="product-filter-collapse-container">
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" class="product-down-arrow">
+                </div>
+            </div>
+            <div class="product-filter-content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. </p>
+            </div>
+        </section>
+
+        <section class="product-filter details-spacing-top">
+            <div class="product-filter-heading">
+                <p>Size Chart</p>
+                <div class="product-filter-collapse-container">
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" class="product-down-arrow">
+                </div>
+            </div>
+            <div class="product-filter-content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. </p>
+            </div>
+        </section>
+
+@*        <div class="details-aside-collapsible-row">
             <p>Reviews (33)</p>
             <div>
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
@@ -80,7 +118,7 @@
             <div>
                 <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Icon_ArrowDown.png" />
             </div>
-        </div>
+        </div>*@
     </aside>
     <section id="details-similar-section">
         <h3>Similar Rides For You</h3>
@@ -153,6 +191,24 @@
 
         $('#details-modal-keep-shopping').click(() => {
             $('#details-modal').css('display', 'none');
+        });
+
+        $('.product-filter-heading').click(function () {
+            var $arrow = $(this).find('img');
+            var $content = $(this).next();
+
+            $content.toggleClass('open');
+
+            if ($content.hasClass('open')) {
+                let height = `${$content.prop('scrollHeight')}px`;
+
+                $content.css('height', height);
+                $arrow.css('transform', 'rotate(180deg)');
+            }
+            else {
+                $content.css('height', '0px');
+                $arrow.css('transform', 'rotate(0deg)');
+            }
         });
 
     </script>

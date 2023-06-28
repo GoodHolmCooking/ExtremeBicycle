@@ -488,19 +488,21 @@ footer {
 #details-hover-container {
     position: absolute;
     top: 0;
-    left: 80px;
-    overflow: hidden;
-}
-
-#details-hover-img {
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
+    left: 110px;
+    width: 200px;
+    height: 200px;
     border: 10px solid gold;
+    border-radius: 50%;
+    overflow: hidden;
     opacity: 0;
 }
 
-#details-hover-img:hover {
+#details-hover-img {
+    zoom: 2;
+    transform: translate(-150px, 0px);
+}
+
+#details-hover-container:hover {
     opacity: 1;
 }
 
@@ -618,6 +620,10 @@ footer {
     #details-carousel-row img {
         margin-block-end: 1rem;
     }
+
+.details-spacing-top {
+    margin-block-start: 2rem;
+}
 
 
 #details-modal {
