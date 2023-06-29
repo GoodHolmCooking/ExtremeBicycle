@@ -464,6 +464,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ExtremeBicycleShop\ExtremeBicycleShop_V2\Bikes_Trek3000.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ExtremeBicycleShop\ExtremeBicycleShop_V2\Bikes_Trek3000_Large.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ExtremeBicycle</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ExtremeBicycle</BasePath>
+      <RelativePath>ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000_Large.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ExtremeBicycleShop\ExtremeBicycleShop_V2\Bikes_Trek3000_Large.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ExtremeBicycleShop\ExtremeBicycleShop_V2\Bikes_TrekPike3.png))">
       <SourceType>Package</SourceType>
       <SourceId>ExtremeBicycle</SourceId>
