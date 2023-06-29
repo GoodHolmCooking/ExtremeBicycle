@@ -1,567 +1,567 @@
 {
   "Files": [
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ExtremeBicycle.bundle.scp.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ExtremeBicycle.bundle.scp.css",
       "PackagePath": "staticwebassets\\ExtremeBicycle.bundle.scp.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\.DS_Store",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\.DS_Store",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\.DS_Store"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\404Page_BackgroundHandleBars.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\404Page_BackgroundHandleBars.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\404Page_BackgroundHandleBars.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_2BikersRidingIntoGreenBackground.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_2BikersRidingIntoGreenBackground.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_2BikersRidingIntoGreenBackground.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikeRightSideofFrameMoutainScenery.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikeRightSideofFrameMoutainScenery.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikeRightSideofFrameMoutainScenery.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerRidingIntoFoggyDarkRoad.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerRidingIntoFoggyDarkRoad.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerRidingIntoFoggyDarkRoad.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSeatleNeedleBackground.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSeatleNeedleBackground.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSeatleNeedleBackground.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSilhouetteBlueSky.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSilhouetteBlueSky.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSilhouetteBlueSky.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSittingWithABikeToTheirRight.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSittingWithABikeToTheirRight.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSittingWithABikeToTheirRight.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringAtWhiteTopMountainToRight.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringAtWhiteTopMountainToRight.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringAtWhiteTopMountainToRight.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringUpAtYellowLeaveTrees.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringUpAtYellowLeaveTrees.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerStaringUpAtYellowLeaveTrees.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSurroundedByGreenTrees.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSurroundedByGreenTrees.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerSurroundedByGreenTrees.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingGreenCloudyBlueSky.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingGreenCloudyBlueSky.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingGreenCloudyBlueSky.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingWhiteShortsOnRoad.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingWhiteShortsOnRoad.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWearingWhiteShortsOnRoad.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWidmillBackground.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWidmillBackground.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWidmillBackground.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWithLegsUpWearingWhiteSweater.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWithLegsUpWearingWhiteSweater.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_BikerWithLegsUpWearingWhiteSweater.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_OrangeBikeAloneWithPinkSunset.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_OrangeBikeAloneWithPinkSunset.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_OrangeBikeAloneWithPinkSunset.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_TwoBikersKissingSunset.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_TwoBikersKissingSunset.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUsGallery_TwoBikersKissingSunset.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_TheOneWhoStartedItAll.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_TheOneWhoStartedItAll.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_TheOneWhoStartedItAll.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_YourOneStopShop.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_YourOneStopShop.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AboutUs_YourOneStopShop.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AdvertisementFreeShipping_TwoBikersPointing.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AdvertisementFreeShipping_TwoBikersPointing.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\AdvertisementFreeShipping_TwoBikersPointing.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_ElectraRiderFlip3.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_ElectraRiderFlip3.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_ElectraRiderFlip3.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantSelect5.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantSelect5.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantSelect5.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantTrailblazer1.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantTrailblazer1.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_GiantTrailblazer1.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_LivDevotion5.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_LivDevotion5.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_LivDevotion5.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumPakAway3.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumPakAway3.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumPakAway3.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumiTrailUI2.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumiTrailUI2.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_MomentumiTrailUI2.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekSlopeXtreme.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekSlopeXtreme.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekSlopeXtreme.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_CyberFoCyclingShoes.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_CyberFoCyclingShoes.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_CyberFoCyclingShoes.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_GForceHelmet.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_GForceHelmet.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_GForceHelmet.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_HydrationBeltGru.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_HydrationBeltGru.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_HydrationBeltGru.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_KAPackGlasses.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_KAPackGlasses.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\DontForgetTheseItems_KAPackGlasses.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FAQ_BackgroundPictureTwoPeopleWheelie.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FAQ_BackgroundPictureTwoPeopleWheelie.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FAQ_BackgroundPictureTwoPeopleWheelie.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FacebookIcon.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FacebookIcon.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\FacebookIcon.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Homepage_HeroVideo.mp4",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Homepage_HeroVideo.mp4",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Homepage_HeroVideo.mp4"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ArrowDown.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ArrowDown.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ArrowDown.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Bikes.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Bikes.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Bikes.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxFilled.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxFilled.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxFilled.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxOutline.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxOutline.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_CheckBoxOutline.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Close.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Close.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Close.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Color.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Color.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Color.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Earth.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Earth.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Earth.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Edit.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Edit.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Edit.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Gloves.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Gloves.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Gloves.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Heart.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Heart.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Heart.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Helmets.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Helmets.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Helmets.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_LeftArrow.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_LeftArrow.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_LeftArrow.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Locks.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Locks.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Locks.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Minus.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Minus.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Minus.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Plus.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Plus.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Plus.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Profile.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Profile.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Profile.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_RightArrow.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_RightArrow.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_RightArrow.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Saddles.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Saddles.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Saddles.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Sale.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Sale.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Sale.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Search.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Search.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Search.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ShoppingCart.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ShoppingCart.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_ShoppingCart.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Star.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Star.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Star.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Tricycle.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Tricycle.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Icon_Tricycle.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\InstagramIcon.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\InstagramIcon.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\InstagramIcon.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Logo.svg",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Logo.svg",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Logo.svg"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ProfileLoggedIn.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ProfileLoggedIn.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ProfileLoggedIn.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Bikes.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Bikes.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Bikes.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Gloves.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Gloves.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Gloves.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Helmets.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Helmets.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Helmets.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_KidsBikes.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_KidsBikes.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_KidsBikes.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Locks.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Locks.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Locks.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Saddles.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Saddles.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Saddles.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Award Winning.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Award Winning.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Award Winning.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Flash Sale.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Flash Sale.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_Flash Sale.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_New Arrivals.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_New Arrivals.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SideContent_New Arrivals.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekCoal23.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekCoal23.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekCoal23.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekExtreme2.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekExtreme2.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekExtreme2.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekHeat3.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekHeat3.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekHeat3.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekStinger1.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekStinger1.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\SimilarRidesForYou_TrekStinger1.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeBackside.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeBackside.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeBackside.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeHighView.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeHighView.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeHighView.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeSeat.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeSeat.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeSeat.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeTire.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeTire.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Trek3000_BikeTire.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\TwitterIcon.png",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\TwitterIcon.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\TwitterIcon.png"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\css\\site.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\favicon.ico",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\js\\site.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Cameron\\Documents\\Bootcamp\\MVC\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
