@@ -1053,7 +1053,7 @@ a.link-button {
     padding: 0;
 }
 
-#orderItem {
+.orderItem {
     display: flex;
     border-block: 1px solid black;
     gap: 2rem;
@@ -1061,11 +1061,11 @@ a.link-button {
     padding-block: 1rem;
 }
 
-#orderItem span {
+.orderItem span {
     margin-inline-end: 0.6rem;
 }
 
-#orderItem img {
+.orderItem img {
     width: 200px;
 }
 
