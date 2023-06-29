@@ -997,3 +997,111 @@ a.link-button {
 .payment-dropdown-items {
     display: none;
 }
+
+/*************** CONFIRMATION PAGE ******************/
+
+#confirmationPage {
+    display: flex;
+}
+
+.ProfileInfo {
+    flex: 4;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
+    margin-inline-start: 3rem;
+}
+
+#ThankYouForTheOrder {
+    width: 80%;
+}
+
+#ThankYouForTheOrder span {
+    font-weight: 600;
+}
+
+#billingInfo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 60%;
+    border: 2px solid #CF7500;
+    padding: 2rem;
+}
+
+#billingInfo p {
+    margin: 0;
+}
+
+#confirmOrder {
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+    padding-inline-end: 4rem;
+    margin-block-start: 1rem;
+}
+
+.no-style {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+#orderDetails {
+    padding: 0;
+}
+
+#orderItem {
+    display: flex;
+    border-block: 1px solid black;
+    gap: 2rem;
+    margin-block-end: 1rem;
+    padding-block: 1rem;
+}
+
+#orderItem span {
+    margin-inline-end: 0.6rem;
+}
+
+#orderItem img {
+    width: 200px;
+}
+
+#item-label {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#cost-calc-factors {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-block-end: 1px solid black;
+    padding-block-end: 0.5rem;
+}
+
+    #cost-calc-factors > div {
+        display: flex;
+        justify-content: space-between;
+    }
+
+#cost-total {
+    display: flex;
+    justify-content: space-between;
+    border-block-end: 1px solid black;
+    padding-block: 0.5rem;
+}
+
+#confirmation-order-links-container {
+    display: flex;
+    gap: 1rem;
+    margin-inline-start: 1rem;
+    margin-block-start: 1rem;
+}
+
+#confirmation-order-links-container a {
+    text-decoration: underline;
+}
