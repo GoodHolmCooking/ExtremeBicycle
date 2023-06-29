@@ -113,6 +113,10 @@
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png"
     },
     {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000_Large.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000_Large.png"
+    },
+    {
       "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png",
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png"
     },
