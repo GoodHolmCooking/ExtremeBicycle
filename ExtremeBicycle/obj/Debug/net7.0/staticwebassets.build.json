@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QEWJT1UsCvvKqu7fu5LA6xY5mtChLAH+0wQUVgBGp7o=",
+  "Hash": "xkXJ5xtCg7K5jvNg3ZLhoJoUFzSiij+FkS5AcYWi82E=",
   "Source": "ExtremeBicycle",
   "BasePath": "_content/ExtremeBicycle",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ProfileLoggedIn.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\red_gloves.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/red_gloves.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\red_gloves.png"
     },
     {
       "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\ShopByCategories_Bikes.png",

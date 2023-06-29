@@ -193,7 +193,7 @@
 
                 // Free = 7 days
                 case "Free":
-                    arrivalDate.setDate(arrivalDate.getDate());
+                    arrivalDate.setDate(arrivalDate.getDate() + 7);
                     month = arrivalDate.getMonth() + 1;
                     day = arrivalDate.getDate();
                     year = arrivalDate.getFullYear();

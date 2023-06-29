@@ -325,6 +325,10 @@
       "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\TwitterIcon.png"
     },
     {
+      "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\red_gloves.png",
+      "PackagePath": "staticwebassets\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\red_gloves.png"
+    },
+    {
       "Id": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
