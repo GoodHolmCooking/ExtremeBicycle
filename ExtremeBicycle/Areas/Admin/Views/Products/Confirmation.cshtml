@@ -1,16 +1,18 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model List<Product>
 @{
+    var total = 0M;
+    foreach (Product product in Model) {
+        total += product.PriceSRP;
+    }
 }
 
 <section id="confirmationPage">
     <section class="ProfileInfo">
         <section id="ThankYouForTheOrder">
-            <h1>Thank you for your order, Paola!</h1>
+            <h1>Thank you for your order, <span class="confirmation-firstName"></span></h1>
             <p>
-                We sent an email receipt to <span>Paola.live@gmail.com</span> and will
-                send an update once we ship your purchase if you are experiencing andy issues, contact
+                We sent an email receipt to <span class="confirmation-email"></span> and will
+                send an update once we ship your purchase if you are experiencing any issues, contact
                 <span>
                     support@extremecycle.com
                 </span>
@@ -24,37 +26,29 @@
                 <h5>
                     Date
                 </h5>
-                <p>@DateTime.Now.ToString("MMMM"); @DateTime.Now.Day,@DateTime.Now.Year;</p>
+                <p>@DateTime.Now.ToString("MMMM") @DateTime.Now.Day, @DateTime.Now.Year</p>
             </div>
             <div>
                 <h5>
                     PaymentMethod
                 </h5>
-                <p>Amex Card *3123</p>
+                <p class="confirmation-cardNumber"></p>
             </div>
             <div>
                 <h5>
                    Billing Address
                 </h5>
-                <p>Paola Aguilar</p>
-                <p>
-                    203 Haek Drive
-                </p>
-                <p>
-                    Austin, TX 73301
-                </p>
+                <p><span class="confirmation-firstName"></span> <span class="confirmation-lastName"></span></p>
+                <p class="confirmation-address"></p>
+                <p><span class="confirmation-city"></span>, <span class="confirmation-state"></span> <span class="confirmation-postal"></span></p>
             </div>
             <div>
                 <h5>
                    Shipping Address
                 </h5>
-                <p>Paola Aguilar</p>
-                <p>
-                    203 Haek Drive
-                </p>
-                <p>
-                    Austin, TX 73301
-                </p>
+                <p><span class="confirmation-firstName"></span> <span class="confirmation-lastName"></span></p>
+                <p class="confirmation-address"></p>
+                <p><span class="confirmation-city"></span>, <span class="confirmation-state"></span> <span class="confirmation-postal"></span></p>
             </div>
         </section>
     </section>
@@ -71,34 +65,42 @@
             </li>
             <li class="no-style">
                 <p>Deliver By </p>
-                <span>Saturday,June 4</span>
+                <span class="confirmation-calculatedDate"></span>
             </li>
             <li class="no-style">
                 <p>Deliver To </p>
-                <span>Pala Aquilar</span>
+                <span><span class="confirmation-firstName"></span> <span class="confirmation-lastName"></span></span>
             </li>
         </ul>
-        <div id="orderItem">
-            <div>
-                <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" />
-            </div>
-            <div id="item-label">
+
+        @foreach (var product in Model) {
+            <div class="orderItem">
                 <div>
-                    <span>Trek3000</span>
-                    <span>$699.99</span>
+                    <img src="~/ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000.png" />
                 </div>
-                
-                <div>Turquoise</div>
-                <div>Qty X</div>
+                <div id="item-label">
+                    <div>
+                        <span>@product.ProductName</span>
+                        <span>$@product.PriceSRP.ToString("#.##")</span>
+                    </div>
+                    @{
+                        var color =
+                        System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.
+                        ToTitleCase(product.Color.ToLower());
+                    }
+                    <div>@color</div>
+                    <div>Qty 1</div>
+                </div>
             </div>
-        </div>
-        <div id="cost-calc-factors">
-            <div><span>Subtotal</span> <span>$699.99</span></div>
-            <div><span>Shipping</span> <span>Free</span></div>
-            <div><span>Tax</span> <span>$55.98</span></div>
-        </div>
+            <div id="cost-calc-factors">
+                <div><span>Subtotal</span> <span>$@product.PriceSRP.ToString("#.##")</span></div>
+                <div><span>Shipping</span> <span class="confirmation-shippingCost"></span></div>
+                <div><span>Tax</span> <span>$55.98</span></div>
+            </div>
+        }
+
         <div id="cost-total">
-            <span class="cost-label">Total</span><span class="cost-item">$755.98</span>
+            <span class="cost-label">Total</span><span class="cost-item" id="confirmation-total-cost"></span>
         </div>
         <div id="confirmation-order-links-container">
             <a>Return Policy</a>
@@ -106,3 +108,138 @@
         </div>
     </section>
 </section>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+
+            // Set items from session
+            // Email
+            let email = sessionStorage.getItem("email");
+            $('.confirmation-email').text(email);
+
+            // Phone
+            let phone = sessionStorage.getItem("phone");
+            $('.confirmation-phone').text(phone);
+
+            // First Name
+            let firstName = sessionStorage.getItem("firstName");
+            $('.confirmation-firstName').text(firstName);
+
+            // Last Name
+            let lastName = sessionStorage.getItem("lastName");
+            $('.confirmation-lastName').text(lastName);
+
+            // Address
+            let address = sessionStorage.getItem("address");
+            $('.confirmation-address').text(address);
+
+            // City
+            let city = sessionStorage.getItem("city");
+            $('.confirmation-city').text(city);
+
+            // State
+            let state = sessionStorage.getItem("state");
+            $('.confirmation-state').text(state);
+
+            // Zip Code
+            let postal = sessionStorage.getItem("postal");
+            $('.confirmation-postal').text(postal);
+
+            // Delvery Method
+            let shipMethod = sessionStorage.getItem("shipMethod");
+            console.log(`Ship Method: ${shipMethod}`);
+            
+            // Calculate cost
+            let shippingCost;
+
+            switch(shipMethod) {
+                // Free = 7 days
+                case "Free":
+                    shippingCost = 0;
+                    $('.confirmation-shippingCost').text("Free");
+                    break;
+
+                // TwoDay = 2 days
+                case "TwoDay":
+                    shippingCost = 50.95;
+                    $('.confirmation-shippingCost').text("$50.95");
+                    break;
+
+                // NexDay = Next day
+                case "NextDay":
+                    shippingCost = 80.95;
+                    $('.confirmation-shippingCost').text("$89.95");
+                    break;
+            }
+
+            let subTotal = @total;
+            let total = subTotal + shippingCost + 55.98;
+            $('#confirmation-total-cost').text('$' + total.toFixed(2).toString());
+
+
+            // Calculate arrival date
+            let arrivalDate = new Date();
+            let month;
+            let day;
+            let year;
+            let formattedDate;
+
+            switch (shipMethod) {
+
+                // Free = 7 days
+                case "Free":
+                    arrivalDate.setDate(arrivalDate.getDate() + 7);
+                    month = arrivalDate.getMonth() + 1;
+                    day = arrivalDate.getDate();
+                    year = arrivalDate.getFullYear();
+                    formattedDate = `${month}/${day}/${year}`;
+                    $('.confirmation-calculatedDate').text(formattedDate);
+                    break;
+
+                // TwoDay = 2 days
+                case "TwoDay":
+                    arrivalDate.setDate(arrivalDate.getDate() + 2);
+                    month = arrivalDate.getMonth() + 1;
+                    day = arrivalDate.getDate();
+                    year = arrivalDate.getFullYear();
+                    formattedDate = `${month}/${day}/${year}`;
+                    $('.confirmation-calculatedDate').text(formattedDate);
+                    break;
+
+                // NexDay = Next day
+                case "NextDay":
+                    console.log("Detected next day shipping");
+                    arrivalDate.setDate(arrivalDate.getDate() + 1);
+                    month = arrivalDate.getMonth() + 1;
+                    day = arrivalDate.getDate();
+                    year = arrivalDate.getFullYear();
+                    formattedDate = `${month}/${day}/${year}`;
+                    $('.confirmation-calculatedDate').text(formattedDate);
+                    break;
+            }
+
+            // Card Number
+            let cardNumber = sessionStorage.getItem("cardNumber");
+            
+            // Obscure card number
+            let cardNumberString = cardNumber.toString();
+            let obscuredNumberEnding = cardNumber.substring(cardNumber.length - 4);
+            let asterisks = '****';
+            let obscuredNumber = asterisks + obscuredNumberEnding;
+            $('.confirmation-cardNumber').text(obscuredNumber);
+
+            // Expiration
+            //let expiration = sessionStorage.getItem("expiration");
+            //$('.confirmation-expiration').text(exipration);
+
+            //// Security Code
+            //let securityCode = sessionStorage.getItem("securityCode");
+            //$('.confirmation-securityCode').text(securityCode);
+        });
+
+    </script>
+}

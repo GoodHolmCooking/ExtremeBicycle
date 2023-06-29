@@ -134,6 +134,7 @@
             <a id="details-checkout-button" class="link-button button-margin" asp-area="Admin" asp-controller="Products" asp-action="Confirmation">
                 Place Order
             </a>
+            @*<button id="details-checkout-button">Test Checkout Values</button>*@
         </div>
     </section>
 
@@ -167,8 +168,56 @@
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
     <script>
         $('#details-checkout-button').on('click', function(){
+            console.log("Checkout button clicked");
+
+            // Email
             let email = $('#Email').val();
             sessionStorage.setItem("email", email);
+
+            // Phone
+            let phone = $("#PhoneNumber").val();
+            sessionStorage.setItem("phone", phone);
+
+            // First Name
+            let firstName = $("#FirstName").val();
+            sessionStorage.setItem("firstName", firstName);
+
+            // Last Name
+            let lastName = $("#LastName").val();
+            sessionStorage.setItem("lastName", lastName);
+
+            // Address
+            let address = $("#Address").val();
+            sessionStorage.setItem("address", address);
+
+            // City
+            let city = $("#City").val();
+            sessionStorage.setItem("city", city);
+
+            // State
+            let state = $("#State").val();
+            sessionStorage.setItem("state", state);
+
+            // Zip Code
+            let postal = $("#Zip").val();
+            sessionStorage.setItem("postal", postal);
+
+            // Delvery Method
+            let shipMethod = $("input[name=method]:checked" ,".delivery-dropdown-items").attr('id');
+            sessionStorage.setItem("shipMethod", shipMethod);
+
+            // Card Number
+            let cardNumber = $("#CardNumber").val();
+            sessionStorage.setItem("cardNumber", cardNumber);
+
+            // Expiration
+            let expiration = $("#Expiration").val();
+            sessionStorage.setItem("expiration", expiration);
+
+            // Security Code
+            let securityCode = $("#SecurityCode").val();
+            sessionStorage.setItem("securityCode", securityCode);
+
         });
     </script>
 }
