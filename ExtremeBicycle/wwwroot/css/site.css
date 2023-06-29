@@ -1002,6 +1002,7 @@ a.link-button {
 
 #confirmationPage {
     display: flex;
+    margin-block-end: 4rem;
 }
 
 .ProfileInfo {
@@ -1055,7 +1056,6 @@ a.link-button {
 
 .orderItem {
     display: flex;
-    border-block: 1px solid black;
     gap: 2rem;
     margin-block-end: 1rem;
     padding-block: 1rem;
@@ -1104,4 +1104,8 @@ a.link-button {
 
 #confirmation-order-links-container a {
     text-decoration: underline;
+}
+
+#confirmation-deliver-to {
+    border-block-end: 1px solid black;
 }

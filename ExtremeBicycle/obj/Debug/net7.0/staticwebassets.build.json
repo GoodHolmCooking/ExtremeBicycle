@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xkXJ5xtCg7K5jvNg3ZLhoJoUFzSiij+FkS5AcYWi82E=",
+  "Hash": "h0JDg6zMlBKXThbh1apP2b2r+ZNCtHve78GkoIyDniA=",
   "Source": "ExtremeBicycle",
   "BasePath": "_content/ExtremeBicycle",
   "Mode": "Default",
@@ -525,6 +525,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000.png"
+    },
+    {
+      "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000_Large.png",
+      "SourceId": "ExtremeBicycle",
+      "SourceType": "Discovered",
+      "ContentRoot": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\",
+      "BasePath": "_content/ExtremeBicycle",
+      "RelativePath": "ExtremeBicycleShop/ExtremeBicycleShop_V2/Bikes_Trek3000_Large.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_Trek3000_Large.png"
     },
     {
       "Identity": "U:\\Projects\\Bootcamp\\ExtremeBicycle\\ExtremeBicycle\\wwwroot\\ExtremeBicycleShop\\ExtremeBicycleShop_V2\\Bikes_TrekPike3.png",
