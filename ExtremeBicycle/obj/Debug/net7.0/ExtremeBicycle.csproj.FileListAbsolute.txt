@@ -836,6 +836,10 @@ U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\appsettings.
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\appsettings.json
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.staticwebassets.runtime.json
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.exe
+U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.deps.json
+U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.runtimeconfig.json
+U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.dll
+U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.pdb
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\Azure.Core.dll
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\Azure.Identity.dll
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\Humanizer.dll
@@ -1105,9 +1109,5 @@ U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\obj\Debug\net7.0\ExtremeBicyc
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\obj\Debug\net7.0\ExtremeBicycle.dll
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\obj\Debug\net7.0\refint\ExtremeBicycle.dll
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\obj\Debug\net7.0\ExtremeBicycle.pdb
-U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.deps.json
-U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.runtimeconfig.json
-U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.dll
-U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\bin\Debug\net7.0\ExtremeBicycle.pdb
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\obj\Debug\net7.0\ExtremeBicycle.genruntimeconfig.cache
 U:\Projects\Bootcamp\ExtremeBicycle\ExtremeBicycle\obj\Debug\net7.0\ref\ExtremeBicycle.dll
